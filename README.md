@@ -1,14 +1,3 @@
----
-title: "NBA Spacing Analysis Tool Documentation"
-author: "Shaye O'Beirne"
-date: "`r Sys.Date()`"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # Project Overview
 
 This Shiny App and corresponding insight was designed for the Women in Sports Data Hackathon 2023. The hackathon prompts particpants to create a project featuring an NBA player tracking data set.
@@ -84,15 +73,16 @@ The methods used to create the spacing visuals are provided by the `kable` and `
 To use the app from the hackathon_app file:
 
 1. Open an New Session in R
-2. From the hacktahon_app file, open `app.R`
-3. Click 'Run App'
+2. Set working directory to the hackathon_app file
+3. From the hackathon_app file, open `app.R`
+4. Click 'Run App'
 
 * If the R session does not have all of the necessary packages to run the app, install the necessary packages within the console
 
-4. In the pop-up window, click 'View in Browser' to open the Shiny App in the user's default browser (the App was designed for browser usage and operates best in this setting)
-5. Wait for data to populate page (can take between 10 and 30 seconds)
-6. Select Team and Possession from user inputs at the top of the page
-7. View reaulting analysis within the app
+5. In the pop-up window, click 'View in Browser' to open the Shiny App in the user's default browser (the App was designed for browser usage and operates best in this setting)
+6. Wait for data to populate page (can take between 10 and 30 seconds)
+7. Select Team and Possession from user inputs at the top of the page
+8. View reaulting analysis within the app
 
 The corresponding Insight (NBA_Spacing_Insight.pdf) can be viewed in any PDF Viewer or Editor.
 
