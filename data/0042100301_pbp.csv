@@ -1,0 +1,459 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0,42100301,2,12,0,1,8:47 PM,12:00,,Start of 1st Period (8:47 PM EST),,,
+1,42100301,4,10,0,1,8:47 PM,12:00,Jump Ball Adebayo vs. Williams III: Tip to Williams,BOS,,,
+2,42100301,7,1,80,1,8:47 PM,11:39,,,Williams 25' 3PT Step Back Jump Shot (3 PTS) (Tatum 1 AST), 3 - 0,-3
+3,42100301,9,2,78,1,8:47 PM,11:17,MISS Tucker 10' Floating Jump Shot,,,,
+4,42100301,10,4,0,1,8:47 PM,11:14,,,Brown REBOUND (Off:0 Def:1),,
+5,42100301,11,1,101,1,8:48 PM,11:02,,,Tatum 4' Driving Floating Jump Shot (2 PTS) (Brown 1 AST), 5 - 0,-5
+6,42100301,13,2,79,1,8:48 PM,10:46,MISS Butler 18' Pullup Jump Shot,,,,
+7,42100301,14,4,0,1,8:48 PM,10:43,,,Tatum REBOUND (Off:0 Def:1),,
+8,42100301,15,2,73,1,8:48 PM,10:42,,,MISS Brown 2' Driving Reverse Layup,,
+9,42100301,16,4,0,1,8:48 PM,10:41,,,Williams III REBOUND (Off:1 Def:0),,
+10,42100301,17,6,2,1,8:48 PM,10:40,Strus S.FOUL (P1.T1) (E.Malloy),,,,
+11,42100301,19,3,11,1,8:49 PM,10:40,,,Williams III Free Throw 1 of 2 (1 PTS), 6 - 0,-6
+12,42100301,20,3,12,1,8:49 PM,10:40,,,Williams III Free Throw 2 of 2 (2 PTS), 7 -0,-7
+13,42100301,21,2,101,1,8:49 PM,10:27,MISS Vincent 11' Driving Floating Jump Shot,,Williams III BLOCK (1 BLK),,
+14,42100301,23,4,0,1,8:49 PM,10:23,,,Tatum REBOUND (Off:0 Def:2),,
+15,42100301,24,7,5,1,8:49 PM,10:21,Adebayo Violation:Kicked Ball (Z.Zarba),,,,
+16,42100301,25,2,5,1,8:50 PM,10:06,,,MISS Brown 1' Layup,,
+17,42100301,26,4,0,1,8:50 PM,10:02,Butler REBOUND (Off:0 Def:1),,,,
+18,42100301,27,2,1,1,8:50 PM,9:56,MISS Vincent 24' 3PT Jump Shot,,,,
+19,42100301,28,4,0,1,8:50 PM,9:54,Butler REBOUND (Off:1 Def:1),,,,
+20,42100301,29,2,105,1,8:50 PM,9:51,MISS Butler 3' Turnaround Fadeaway Bank Jump Shot,,,,
+21,42100301,30,4,0,1,8:50 PM,9:48,Butler REBOUND (Off:2 Def:1),,,,
+22,42100301,31,2,1,1,8:50 PM,9:44,MISS Strus 26' 3PT Jump Shot,,,,
+23,42100301,32,4,0,1,8:50 PM,9:44,,,Williams REBOUND (Off:0 Def:1),,
+24,42100301,33,10,0,1,8:51 PM,9:39, ,,,,
+25,42100301,83,5,2,1,8:51 PM,9:39,Butler STEAL (1 STL),,Williams Lost Ball Turnover (P1.T1),,
+26,42100301,36,2,1,1,8:51 PM,9:32,MISS Strus 27' 3PT Jump Shot,,White BLOCK (1 BLK),,
+27,42100301,38,4,0,1,8:51 PM,9:30,,,Williams III REBOUND (Off:1 Def:1),,
+28,42100301,39,2,41,1,8:51 PM,9:30,Vincent BLOCK (1 BLK),,MISS White 2' Running Layup,,
+29,42100301,41,4,0,1,8:51 PM,9:30,,,Celtics Rebound,,
+30,42100301,43,2,75,1,8:52 PM,9:24,,,MISS Tatum 7' Driving Finger Roll Layup,,
+31,42100301,44,4,0,1,8:52 PM,9:21,Adebayo REBOUND (Off:0 Def:1),,,,
+32,42100301,45,1,86,1,8:52 PM,9:14,Adebayo 11' Turnaround Fadeaway (2 PTS),,, 7 - 2,-5
+33,42100301,46,5,45,1,8:52 PM,9:00,,,Williams III Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,
+34,42100301,47,1,78,1,8:52 PM,8:49,Tucker 10' Floating Jump Shot (2 PTS) (Vincent 1 AST),,, 7 - 4,-3
+35,42100301,49,1,1,1,8:53 PM,8:34,,,Brown 27' 3PT Jump Shot (3 PTS), 10 - 4,-6
+36,42100301,50,5,40,1,8:53 PM,8:16,Strus Out of Bounds Lost Ball Turnover (P1.T1),,,,
+37,42100301,51,2,1,1,8:53 PM,8:06,,,MISS Williams 24' 3PT Jump Shot,,
+38,42100301,52,4,0,1,8:53 PM,8:02,Tucker REBOUND (Off:0 Def:1),,,,
+39,42100301,53,5,1,1,8:54 PM,7:52,Vincent Bad Pass Turnover (P1.T2),,Williams STEAL (1 STL),,
+40,42100301,55,1,74,1,8:54 PM,7:47,,,Tatum 1' Running Reverse Layup (4 PTS) (Williams 1 AST), 10 - 4,-8
+41,42100301,57,1,9,1,8:54 PM,7:26,Butler 1' Driving Dunk (2 PTS),,, 10 - 6,-6
+42,42100301,58,1,75,1,8:54 PM,7:12,,,Tatum 1' Driving Finger Roll Layup (6 PTS) (Williams III 1 AST),14 - 6,-8
+43,42100301,60,6,2,1,8:54 PM,7:12,Strus S.FOUL (P2.T2) (T.Brothers),,,,
+44,42100301,62,3,10,1,8:55 PM,7:12,,,MISS Tatum Free Throw 1 of 1,,
+45,42100301,63,4,0,1,8:55 PM,7:08,Adebayo REBOUND (Off:0 Def:2),,,,
+46,42100301,64,5,1,1,8:55 PM,6:58,Tucker Bad Pass Turnover (P1.T3),,,,
+47,42100301,65,6,3,1,8:55 PM,6:58,Tucker L.B.FOUL (P1.T3) (Z.Zarba),,,,
+48,42100301,67,9,1,1,8:55 PM,6:58,HEAT Timeout: Regular (Full 1 Short 0),,,,
+49,42100301,69,8,0,1,8:55 PM,6:58,SUB: Herro FOR Strus,,,,
+50,42100301,71,2,80,1,8:59 PM,6:43,,,MISS Tatum 27' 3PT Step Back Jump Shot,,
+51,42100301,72,4,0,1,8:59 PM,6:38,Herro REBOUND (Off:0 Def:1),,,,
+52,42100301,73,1,79,1,8:59 PM,6:33,Herro 26' 3PT Pullup Jump Shot (3 PTS),,,14 - 9,-5
+53,42100301,74,2,101,1,9:00 PM,6:05,,,MISS White 9' Driving Floating Jump Shot,,
+54,42100301,75,4,0,1,9:00 PM,6:03,,,Williams III REBOUND (Off:2 Def:1),,
+55,42100301,76,1,72,1,9:00 PM,6:01,,,Williams III 3' Putback Layup (4 PTS),16 - 9,-7
+56,42100301,77,6,1,1,9:00 PM,5:50,,,Brown P.FOUL (P1.T1) (T.Brothers),,
+57,42100301,79,2,79,1,9:01 PM,5:41,MISS Herro 19' Pullup Jump Shot,,,,
+58,42100301,80,4,0,1,9:01 PM,5:36,,,Tatum REBOUND (Off:0 Def:3),,
+59,42100301,81,1,98,1,9:01 PM,5:30,,,Williams III 2' Cutting Layup Shot (6 PTS) (White 1 AST),18 - 9,-9
+60,42100301,84,1,101,1,9:01 PM,5:16,Butler 7' Driving Floating Jump Shot (4 PTS) (Herro 1 AST),,,18 - 11,-7
+61,42100301,86,2,1,1,9:01 PM,4:57,,,MISS Tatum 27' 3PT Jump Shot,,
+62,42100301,87,4,0,1,9:01 PM,4:54,Herro REBOUND (Off:0 Def:2),,,,
+63,42100301,88,1,98,1,9:01 PM,4:44,Adebayo 2' Cutting Layup Shot (4 PTS) (Herro 2 AST),,,18 - 13,-5
+64,42100301,90,1,1,1,9:02 PM,4:23,,,Williams III 5' Jump Shot (8 PTS) (Brown 2 AST),20 - 13,-7
+65,42100301,92,1,73,1,9:02 PM,4:10,Vincent 1' Driving Reverse Layup (2 PTS),,,20 - 15,-5
+66,42100301,93,6,1,1,9:02 PM,3:53,Herro P.FOUL (P1.T4) (Z.Zarba),,,,
+67,42100301,95,3,11,1,9:03 PM,3:53,,,MISS White Free Throw 1 of 2,,
+68,42100301,96,4,1,1,9:03 PM,3:53,,,Celtics Rebound,,
+69,42100301,97,8,0,1,9:03 PM,3:53,SUB: Dedmon FOR Vincent,,,,
+70,42100301,98,8,0,1,9:03 PM,3:53,SUB: Oladipo FOR Adebayo,,,,
+71,42100301,99,8,0,1,9:03 PM,3:53,,,SUB: Theis FOR Tatum,,
+72,42100301,100,8,0,1,9:03 PM,3:53,,,SUB: Pritchard FOR Williams III,,
+73,42100301,105,3,12,1,9:03 PM,3:53,,,White Free Throw 2 of 2 (1 PTS),21 - 15,-6
+74,42100301,106,1,7,1,9:04 PM,3:34,Dedmon 2' Dunk (2 PTS) (Tucker 1 AST),,,21 - 17,-4
+75,42100301,108,2,47,1,9:04 PM,3:11,,,MISS Williams 7' Turnaround Jump Shot,,
+76,42100301,109,4,0,1,9:04 PM,3:09,Tucker REBOUND (Off:0 Def:2),,,,
+77,42100301,110,1,41,1,9:04 PM,3:06,Butler 1' Running Layup (6 PTS) (Herro 3 AST),,,21 - 19,-2
+78,42100301,112,2,6,1,9:05 PM,2:49,Dedmon BLOCK (1 BLK),,MISS Brown 3' Driving Layup,,
+79,42100301,113,4,0,1,9:05 PM,2:47,Butler REBOUND (Off:2 Def:2),,,,
+80,42100301,114,1,101,1,9:05 PM,2:40,Herro 8' Driving Floating Jump Shot (5 PTS) (Butler 1 AST),,,21 - 21,TIE
+81,42100301,116,9,1,1,9:05 PM,2:40,,,Celtics Timeout: Regular (Reg.1 Short 0),,
+82,42100301,118,8,0,1,9:05 PM,2:40,SUB: Martin FOR Tucker,,,,
+83,42100301,119,8,0,1,9:05 PM,2:40,,,SUB: Tatum FOR Brown,,
+84,42100301,122,5,1,1,9:09 PM,2:18,Oladipo STEAL (1 STL),,Tatum Bad Pass Turnover (P1.T3),,
+85,42100301,124,1,50,1,9:09 PM,2:13,Martin 1' Running Dunk (2 PTS) (Oladipo 1 AST),,,21 - 23,2
+86,42100301,126,1,6,1,9:09 PM,1:57,,,Tatum 1' Driving Layup (8 PTS),23 - 23,TIE
+87,42100301,127,5,1,1,9:10 PM,1:37,Herro Bad Pass Turnover (P1.T4),,Pritchard STEAL (1 STL),,
+88,42100301,129,6,26,1,9:10 PM,1:29,,,White Offensive Charge Foul (P1) (E.Malloy),,
+89,42100301,131,5,37,1,9:10 PM,1:29,,,White Offensive Foul Turnover (P1.T4),,
+90,42100301,132,6,26,1,9:10 PM,1:16,Butler Offensive Charge Foul (P1) (Z.Zarba),,,,
+91,42100301,134,5,37,1,9:10 PM,1:16,Butler Offensive Foul Turnover (P1.T5),,,,
+92,42100301,135,8,0,1,9:11 PM,1:16,SUB: Strus FOR Butler,,,,
+93,42100301,137,1,101,1,9:11 PM,1:00,,,Tatum 11' Driving Floating Jump Shot (10 PTS) (White 2 AST),25 - 23,-2
+94,42100301,138,2,79,1,9:11 PM,0:47,MISS Oladipo 18' Pullup Jump Shot,,,,
+95,42100301,139,4,0,1,9:11 PM,0:44,Strus REBOUND (Off:1 Def:0),,,,
+96,42100301,140,2,1,1,9:11 PM,0:43,MISS Herro 27' 3PT Jump Shot,,,,
+97,42100301,141,4,0,1,9:11 PM,0:37,,,Theis REBOUND (Off:0 Def:1),,
+98,42100301,142,1,1,1,9:11 PM,0:35,,,Pritchard 26' 3PT Jump Shot (3 PTS) (White 3 AST),28 - 23,-5
+99,42100301,144,1,101,1,9:12 PM,0:18,Herro 13' Driving Floating Jump Shot (7 PTS),,,28 - 25,-3
+100,42100301,145,2,1,1,9:12 PM,0:01,,,MISS Pritchard 25' 3PT Jump Shot,,
+101,42100301,146,4,0,1,9:12 PM,0:01,,,Celtics Rebound,,
+102,42100301,147,13,0,1,9:12 PM,0:00,,End of 1st Period (9:12 PM EST),,28 - 25,-3
+103,42100301,158,12,0,2,9:16 PM,12:00,,Start of 2nd Period (9:16 PM EST),,28 - 25,-3
+104,42100301,159,5,2,2,9:16 PM,11:36,Herro Lost Ball Turnover (P2.T6),,Tatum STEAL (1 STL),,
+105,42100301,161,1,76,2,9:16 PM,11:32,,,Tatum 2' Running Finger Roll Layup (12 PTS),30 - 25,-5
+106,42100301,162,1,79,2,9:17 PM,11:10,Oladipo 25' 3PT Pullup Jump Shot (3 PTS),,,30 - 28,-2
+107,42100301,163,5,1,2,9:17 PM,10:51,Strus STEAL (1 STL),,Pritchard Bad Pass Turnover (P1.T5),,
+108,42100301,165,2,41,2,9:17 PM,10:45,MISS Martin 3' Running Layup,,Nesmith BLOCK (1 BLK),,
+109,42100301,167,4,0,2,9:17 PM,10:44,,,Brown REBOUND (Off:0 Def:2),,
+110,42100301,168,6,1,2,9:17 PM,10:41,Oladipo P.FOUL (P1.T1) (T.Brothers),,,,
+111,42100301,170,2,1,2,9:18 PM,10:29,,,MISS Brown 26' 3PT Jump Shot,,
+112,42100301,171,4,0,2,9:18 PM,10:26,,,Nesmith REBOUND (Off:1 Def:0),,
+113,42100301,172,2,79,2,9:18 PM,10:21,,,MISS Tatum 26' 3PT Pullup Jump Shot,,
+114,42100301,173,4,0,2,9:18 PM,10:18,,,Pritchard REBOUND (Off:1 Def:0),,
+115,42100301,174,1,52,2,9:18 PM,10:15,,,Williams III 2' Alley Oop Dunk (10 PTS) (Tatum 2 AST),32 - 28,-4
+116,42100301,176,6,1,2,9:18 PM,9:58,,,Nesmith P.FOUL (P1.T1) (Z.Zarba),,
+117,42100301,178,6,2,2,9:19 PM,9:49,,,Williams III S.FOUL (P1.T2) (T.Brothers),,
+118,42100301,180,3,11,2,9:19 PM,9:49,Adebayo Free Throw 1 of 2 (5 PTS),,,32 - 29,-3
+119,42100301,181,3,12,2,9:20 PM,9:49,Adebayo Free Throw 2 of 2 (6 PTS),,,32 - 30,-2
+120,42100301,182,1,52,2,9:20 PM,9:29,,,Williams III 2' Alley Oop Dunk (12 PTS) (Tatum 3 AST),34 - 30,-4
+121,42100301,184,2,79,2,9:20 PM,9:20,MISS Herro 26' 3PT Pullup Jump Shot,,,,
+122,42100301,185,4,0,2,9:20 PM,9:14,,,Tatum REBOUND (Off:0 Def:4),,
+123,42100301,186,5,45,2,9:21 PM,9:08,,,Nesmith Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,
+124,42100301,187,5,1,2,9:21 PM,8:59,Adebayo Bad Pass Turnover (P1.T7),,Nesmith STEAL (1 STL),,
+125,42100301,189,1,41,2,9:21 PM,8:54,,,Brown 2' Running Layup (5 PTS),36 - 30,-6
+126,42100301,190,2,1,2,9:21 PM,8:38,MISS Oladipo 24' 3PT Jump Shot,,,,
+127,42100301,191,4,0,2,9:21 PM,8:33,,,Pritchard REBOUND (Off:1 Def:1),,
+128,42100301,192,2,79,2,9:21 PM,8:26,Adebayo BLOCK (1 BLK),,MISS Tatum 20' Pullup Jump Shot,,
+129,42100301,194,4,0,2,9:21 PM,8:21,Martin REBOUND (Off:0 Def:1),,,,
+130,42100301,195,2,1,2,9:21 PM,8:18,MISS Strus 3PT Jump Shot,,,,
+131,42100301,196,4,0,2,9:22 PM,8:18,HEAT Rebound,,,,
+132,42100301,198,8,0,2,9:22 PM,8:18,SUB: Butler FOR Martin,,,,
+133,42100301,200,2,63,2,9:22 PM,8:15,MISS Herro 18' Fadeaway Jumper,,,,
+134,42100301,201,4,0,2,9:22 PM,8:12,,,Williams III REBOUND (Off:2 Def:2),,
+135,42100301,202,1,63,2,9:22 PM,7:59,,,Brown 11' Fadeaway Jumper (7 PTS),38 - 30,-8
+136,42100301,203,2,6,2,9:23 PM,7:42,MISS Oladipo 2' Driving Layup,,Williams III BLOCK (2 BLK),,
+137,42100301,205,4,0,2,9:23 PM,7:42,Butler REBOUND (Off:3 Def:2),,,,
+138,42100301,206,2,72,2,9:23 PM,7:39,MISS Butler 4' Putback Layup,,,,
+139,42100301,207,4,0,2,9:23 PM,7:37,,,Pritchard REBOUND (Off:1 Def:2),,
+140,42100301,208,1,1,2,9:23 PM,7:34,,,Pritchard 26' 3PT Jump Shot (6 PTS) (Tatum 4 AST),41 - 30,-11
+141,42100301,210,9,1,2,9:23 PM,7:34,HEAT Timeout: Regular (Full 2 Short 0),,,,
+142,42100301,211,8,0,2,9:23 PM,7:34,SUB: Tucker FOR Strus,,,,
+143,42100301,213,1,101,2,9:27 PM,7:17,Oladipo 11' Driving Floating Jump Shot (5 PTS),,,41 - 32,-9
+144,42100301,214,1,79,2,9:28 PM,6:49,,,Pritchard 12' Pullup Jump Shot (8 PTS) (Tatum 5 AST),43 - 32,-11
+145,42100301,215,2,79,2,9:28 PM,6:39,MISS Herro 27' 3PT Pullup Jump Shot,,,,
+146,42100301,216,4,0,2,9:28 PM,6:39,,,Brown REBOUND (Off:0 Def:3),,
+147,42100301,217,2,1,2,9:28 PM,6:25,,,MISS Brown 25' 3PT Jump Shot,,
+148,42100301,218,4,0,2,9:28 PM,6:25,HEAT Rebound,,,,
+149,42100301,220,9,1,2,9:28 PM,6:25,HEAT Timeout: Regular (Full 3 Short 0),,,,
+150,42100301,222,8,0,2,9:31 PM,6:25,SUB: Martin FOR Tucker,,,,
+151,42100301,223,8,0,2,9:31 PM,6:25,,,SUB: Williams FOR Nesmith,,
+152,42100301,224,8,0,2,9:31 PM,6:25,,,SUB: Theis FOR Williams III,,
+153,42100301,228,6,2,2,9:32 PM,6:13,,,Williams S.FOUL (P1.T3) (E.Malloy),,
+154,42100301,230,3,11,2,9:33 PM,6:13,Butler Free Throw 1 of 2 (7 PTS),,,43 - 33,-10
+155,42100301,231,3,12,2,9:33 PM,6:13,Butler Free Throw 2 of 2 (8 PTS),,,43 - 34,-9
+156,42100301,232,1,98,2,9:34 PM,5:57,,,Theis 1' Cutting Layup Shot (2 PTS) (Williams 2 AST),45 - 34,-11
+157,42100301,234,2,73,2,9:34 PM,5:41,MISS Oladipo 1' Driving Reverse Layup,,,,
+158,42100301,235,4,0,2,9:34 PM,5:39,,,Brown REBOUND (Off:0 Def:4),,
+159,42100301,236,1,76,2,9:34 PM,5:37,,,Pritchard 3' Running Finger Roll Layup (10 PTS) (Brown 3 AST),47 - 34,-13
+160,42100301,238,6,2,2,9:34 PM,5:25,,,Brown S.FOUL (P2.T4) (T.Brothers),,
+161,42100301,240,3,11,2,9:35 PM,5:25,Butler Free Throw 1 of 2 (9 PTS),,,47 - 35,-12
+162,42100301,241,8,0,2,9:35 PM,5:25,SUB: Vincent FOR Oladipo,,,,
+163,42100301,243,3,12,2,9:35 PM,5:25,Butler Free Throw 2 of 2 (10 PTS),,,47 - 36,-11
+164,42100301,244,2,80,2,9:35 PM,5:09,,,MISS Pritchard 25' 3PT Step Back Jump Shot,,
+165,42100301,245,4,0,2,9:35 PM,5:07,Herro REBOUND (Off:0 Def:3),,,,
+166,42100301,246,1,1,2,9:35 PM,4:54,Vincent 26' 3PT Jump Shot (5 PTS) (Butler 2 AST),,,47 - 39,-8
+167,42100301,248,1,6,2,9:36 PM,4:31,,,Tatum 3' Driving Layup (14 PTS) (Theis 1 AST),49 - 39,-10
+168,42100301,250,1,101,2,9:36 PM,4:20,Herro 10' Driving Floating Jump Shot (9 PTS),,,49 - 41,-8
+169,42100301,251,1,41,2,9:36 PM,4:14,,,Williams Running Layup (5 PTS) (Pritchard 1 AST),51 - 41,-10
+170,42100301,253,1,79,2,9:36 PM,3:59,Herro 20' Pullup Jump Shot (11 PTS),,,51 - 43,-8
+171,42100301,255,1,79,2,9:37 PM,3:37,,,Tatum 13' Pullup Jump Shot (16 PTS),53 - 43,-10
+172,42100301,256,2,1,2,9:37 PM,3:17,MISS Martin 26' 3PT Jump Shot,,,,
+173,42100301,257,4,0,2,9:37 PM,3:14,,,Pritchard REBOUND (Off:1 Def:3),,
+174,42100301,258,1,108,2,9:37 PM,3:00,,,Theis 1' Cutting Dunk Shot (4 PTS) (Pritchard 2 AST),55 - 43,-12
+175,42100301,260,1,1,2,9:38 PM,2:43,Martin 24' 3PT Jump Shot (5 PTS) (Adebayo 1 AST),,,55 - 46,-9
+176,42100301,262,2,86,2,9:38 PM,2:16,,,MISS Pritchard 15' Turnaround Fadeaway Shot,,
+177,42100301,263,4,0,2,9:38 PM,2:12,Adebayo REBOUND (Off:0 Def:3),,,,
+178,42100301,264,2,101,2,9:38 PM,2:05,MISS Herro 8' Driving Floating Jump Shot,,,,
+179,42100301,265,4,0,2,9:38 PM,2:03,Herro REBOUND (Off:1 Def:3),,,,
+180,42100301,266,1,47,2,9:38 PM,2:00,Herro 7' Turnaround Jump Shot (13 PTS),,,55 - 48,-7
+181,42100301,267,1,79,2,9:39 PM,1:41,,,Tatum 26' 3PT Pullup Jump Shot (19 PTS),58 - 48,-10
+182,42100301,268,6,1,2,9:39 PM,1:27,,,Pritchard P.FOUL (P1.PN) (E.Malloy),,
+183,42100301,271,3,11,2,9:40 PM,1:27,Butler Free Throw 1 of 2 (11 PTS),,,58 - 49,-9
+184,42100301,272,8,0,2,9:40 PM,1:27,,,SUB: Williams III FOR Brown,,
+185,42100301,273,8,0,2,9:40 PM,1:27,,,SUB: White FOR Theis,,
+186,42100301,276,3,12,2,9:40 PM,1:27,Butler Free Throw 2 of 2 (12 PTS),,,58 - 50,-8
+187,42100301,277,5,1,2,9:41 PM,1:14,Herro STEAL (1 STL),,White Bad Pass Turnover (P2.T7),,
+188,42100301,279,1,76,2,9:41 PM,1:10,Herro 1' Running Finger Roll Layup (15 PTS),,,58 - 52,-6
+189,42100301,280,6,2,2,9:41 PM,0:58,Butler S.FOUL (P2.T2) (E.Malloy),,,,
+190,42100301,282,3,11,2,9:41 PM,0:58,,,Tatum Free Throw 1 of 2 (20 PTS),59 - 52,-7
+191,42100301,283,3,12,2,9:42 PM,0:58,,,Tatum Free Throw 2 of 2 (21 PTS),60 - 52,-8
+192,42100301,284,2,1,2,9:42 PM,0:37,MISS Butler 3PT Jump Shot,,Tatum BLOCK (1 BLK),,
+193,42100301,286,4,0,2,9:42 PM,0:32,,,Williams III REBOUND (Off:2 Def:3),,
+194,42100301,287,1,41,2,9:42 PM,0:32,,,White 1' Running Layup (3 PTS),62 - 52,-10
+195,42100301,288,1,79,2,9:43 PM,0:18,Butler 20' Pullup Jump Shot (14 PTS),,,62 - 54,-8
+196,42100301,289,2,1,2,9:43 PM,0:00,,,MISS Pritchard 26' 3PT Jump Shot,,
+197,42100301,290,4,0,2,9:43 PM,0:00,,,Celtics Rebound,,
+198,42100301,291,13,0,2,9:43 PM,0:00,,End of 2nd Period (9:43 PM EST),,62 - 54,-8
+199,42100301,298,12,0,3,10:00 PM,12:00,,Start of 3rd Period (10:00 PM EST),,62 - 54,-8
+200,42100301,299,6,2,3,10:00 PM,11:44,,,Williams III S.FOUL (P2.T1) (T.Brothers),,
+201,42100301,301,3,11,3,10:00 PM,11:44,Butler Free Throw 1 of 2 (15 PTS),,,62 - 55,-7
+202,42100301,302,3,12,3,10:01 PM,11:44,Butler Free Throw 2 of 2 (16 PTS),,,62 - 56,-6
+203,42100301,303,2,1,3,10:01 PM,11:26,,,MISS Tatum 26' 3PT Jump Shot,,
+204,42100301,304,4,0,3,10:01 PM,11:21,Adebayo REBOUND (Off:0 Def:4),,,,
+205,42100301,305,2,1,3,10:01 PM,11:07,MISS Tucker 24' 3PT Jump Shot,,,,
+206,42100301,306,4,0,3,10:01 PM,11:06,HEAT Rebound,,,,
+207,42100301,307,6,3,3,10:02 PM,11:05,,,Williams L.B.FOUL (P2.T2) (Z.Zarba),,
+208,42100301,309,2,1,3,10:02 PM,10:50,MISS Strus 28' 3PT Jump Shot,,,,
+209,42100301,310,4,0,3,10:02 PM,10:49,HEAT Rebound,,,,
+210,42100301,313,1,102,3,10:03 PM,10:44,Adebayo 2' Driving Floating Bank Jump Shot (8 PTS) (Butler 3 AST),,,62 - 58,-4
+211,42100301,314,6,2,3,10:03 PM,10:44,,,Williams S.FOUL (P3.T3) (T.Brothers),,
+212,42100301,317,3,10,3,10:04 PM,10:44,Adebayo Free Throw 1 of 1 (9 PTS),,,62 - 59,-3
+213,42100301,318,6,1,3,10:04 PM,10:31,Vincent P.FOUL (P1.T1) (T.Brothers),,,,
+214,42100301,320,2,5,3,10:04 PM,10:16,Vincent BLOCK (2 BLK),,MISS Williams III 4' Layup,,
+215,42100301,322,4,0,3,10:04 PM,10:11,Vincent REBOUND (Off:0 Def:1),,,,
+216,42100301,323,2,79,3,10:04 PM,10:09,MISS Vincent 27' 3PT Pullup Jump Shot,,,,
+217,42100301,324,4,0,3,10:05 PM,10:06,,,Williams III REBOUND (Off:2 Def:4),,
+218,42100301,325,6,2,3,10:05 PM,9:53,Adebayo S.FOUL (P1.T2) (E.Malloy),,,,
+219,42100301,327,3,11,3,10:05 PM,9:53,,,MISS Brown Free Throw 1 of 2,,
+220,42100301,328,4,1,3,10:05 PM,9:53,,,Celtics Rebound,,
+221,42100301,329,3,12,3,10:06 PM,9:53,,,Brown Free Throw 2 of 2 (8 PTS),63 - 59,-4
+222,42100301,330,7,5,3,10:06 PM,9:41,,,Williams III Violation:Kicked Ball (T.Brothers),,
+223,42100301,331,1,63,3,10:06 PM,9:27,Vincent 25' 3PT Fadeaway Jumper (8 PTS),,,63 - 62,-1
+224,42100301,332,5,1,3,10:07 PM,9:10,Tucker STEAL (1 STL),,Tatum Bad Pass Turnover (P2.T8),,
+225,42100301,334,2,79,3,10:07 PM,9:03,MISS Vincent 26' 3PT Pullup Jump Shot,,,,
+226,42100301,335,4,0,3,10:07 PM,9:02,Butler REBOUND (Off:4 Def:2),,,,
+227,42100301,336,1,72,3,10:07 PM,9:02,Butler 1' Putback Layup (18 PTS),,,63 - 64,1
+228,42100301,337,9,1,3,10:07 PM,9:02,,,Celtics Timeout: Regular (Reg.2 Short 0),,
+229,42100301,338,2,5,3,10:11 PM,8:39,Vincent BLOCK (3 BLK),,MISS Williams III 1' Layup,,
+230,42100301,340,4,0,3,10:11 PM,8:36,Vincent REBOUND (Off:0 Def:2),,,,
+231,42100301,341,6,1,3,10:11 PM,8:36,,,Brown P.FOUL (P3.T4) (E.Malloy),,
+232,42100301,343,1,1,3,10:11 PM,8:29,Strus 26' 3PT Jump Shot (3 PTS) (Tucker 2 AST),,,63 - 67,4
+233,42100301,345,2,6,3,10:12 PM,8:14,Adebayo BLOCK (2 BLK),,MISS Williams 1' Driving Layup,,
+234,42100301,347,4,0,3,10:12 PM,8:10,Tucker REBOUND (Off:0 Def:3),,,,
+235,42100301,348,2,2,3,10:12 PM,8:07,MISS Strus 24' 3PT Running Jump Shot,,,,
+236,42100301,349,4,0,3,10:12 PM,8:04,,,Tatum REBOUND (Off:0 Def:5),,
+237,42100301,350,2,1,3,10:12 PM,7:58,,,MISS Tatum 26' 3PT Jump Shot,,
+238,42100301,351,4,0,3,10:12 PM,7:52,Tucker REBOUND (Off:0 Def:4),,,,
+239,42100301,352,5,1,3,10:12 PM,7:43,Butler Bad Pass Turnover (P2.T8),,Tatum STEAL (2 STL),,
+240,42100301,354,6,2,3,10:12 PM,7:40,Vincent S.FOUL (P2.T3) (T.Brothers),,,,
+241,42100301,356,3,11,3,10:13 PM,7:40,,,MISS Brown Free Throw 1 of 2,,
+242,42100301,357,4,1,3,10:13 PM,7:40,,,Celtics Rebound,,
+243,42100301,359,3,12,3,10:13 PM,7:40,,,Brown Free Throw 2 of 2 (9 PTS),64 - 67,3
+244,42100301,363,8,0,3,10:13 PM,7:40,,,SUB: Pritchard FOR White,,
+245,42100301,360,6,2,3,10:14 PM,7:19,,,Pritchard S.FOUL (P2.PN) (T.Brothers),,
+246,42100301,362,3,11,3,10:14 PM,7:19,Butler Free Throw 1 of 2 (19 PTS),,,64 - 68,4
+247,42100301,365,3,12,3,10:14 PM,7:19,MISS Butler Free Throw 2 of 2,,,,
+248,42100301,366,4,0,3,10:14 PM,7:18,,,Celtics Rebound,,
+249,42100301,367,6,3,3,10:15 PM,7:18,Strus L.B.FOUL (P3.T4) (E.Malloy),,,,
+250,42100301,369,2,6,3,10:15 PM,6:56,Adebayo BLOCK (3 BLK),,MISS Brown 2' Driving Layup,,
+251,42100301,374,4,0,3,10:15 PM,6:51,HEAT Rebound,,,,
+252,42100301,371,10,0,3,10:16 PM,6:51,Jump Ball Adebayo vs. Williams III: Tip to Butler,,,,
+253,42100301,375,1,63,3,10:16 PM,6:40,Butler 17' Fadeaway Jumper (21 PTS),,,64 - 70,6
+254,42100301,376,5,2,3,10:16 PM,6:20,Strus STEAL (2 STL),,Tatum Lost Ball Turnover (P3.T9),,
+255,42100301,378,1,50,3,10:16 PM,6:16,Strus 1' Running Dunk (5 PTS),,,64 - 72,8
+256,42100301,379,9,1,3,10:17 PM,6:16,,,Celtics Timeout: Regular (Reg.3 Short 0),,
+257,42100301,380,8,0,3,10:17 PM,6:16,,,SUB: White FOR Pritchard,,
+258,42100301,382,5,1,3,10:21 PM,6:01,Butler STEAL (2 STL),,Tatum Bad Pass Turnover (P4.T10),,
+259,42100301,384,1,47,3,10:21 PM,5:53,Butler 3' Turnaround Jump Shot (23 PTS),,,64 - 74,10
+260,42100301,385,5,1,3,10:21 PM,5:47,Butler STEAL (3 STL),,Tatum Bad Pass Turnover (P5.T11),,
+261,42100301,387,1,50,3,10:21 PM,5:42,Butler 2' Running Dunk (25 PTS),,,64 - 76,12
+262,42100301,388,2,1,3,10:21 PM,5:21,,,MISS White 24' 3PT Jump Shot,,
+263,42100301,389,4,0,3,10:21 PM,5:21,,,Celtics Rebound,,
+264,42100301,390,6,3,3,10:21 PM,5:21,Tucker L.B.FOUL (P2.PN) (T.Brothers),,,,
+265,42100301,392,3,11,3,10:22 PM,5:21,,,Williams III Free Throw 1 of 2 (13 PTS),65 - 76,11
+266,42100301,393,3,12,3,10:22 PM,5:21,,,Williams III Free Throw 2 of 2 (14 PTS),66 - 76,10
+267,42100301,394,2,63,3,10:23 PM,5:05,MISS Butler 19' Fadeaway Jumper,,,,
+268,42100301,395,4,0,3,10:23 PM,5:01,,,Williams III REBOUND (Off:2 Def:5),,
+269,42100301,396,1,44,3,10:23 PM,4:53,,,Williams III 2' Reverse Layup (16 PTS) (White 4 AST),68 - 76,8
+270,42100301,398,6,2,3,10:23 PM,4:53,Adebayo S.FOUL (P2.PN) (Z.Zarba),,,,
+271,42100301,401,3,10,3,10:23 PM,4:53,,,Williams III Free Throw 1 of 1 (17 PTS),69 - 76,7
+272,42100301,402,5,1,3,10:24 PM,4:43,Adebayo Bad Pass Turnover (P2.T9),,Tatum STEAL (3 STL),,
+273,42100301,404,6,28,3,10:24 PM,4:41,Vincent Personal Take Foul (P3.PN) (E.Malloy),,,,
+274,42100301,406,3,11,3,10:24 PM,4:41,,,Tatum Free Throw 1 of 2 (22 PTS),70 - 76,6
+275,42100301,407,8,0,3,10:24 PM,4:41,SUB: Dedmon FOR Adebayo,,,,
+276,42100301,408,8,0,3,10:24 PM,4:41,SUB: Herro FOR Strus,,,,
+277,42100301,409,8,0,3,10:24 PM,4:41,,,SUB: Theis FOR Williams III,,
+278,42100301,413,3,12,3,10:25 PM,4:41,,,Tatum Free Throw 2 of 2 (23 PTS),71 - 76,5
+279,42100301,414,5,2,3,10:25 PM,4:16,Herro Lost Ball Turnover (P3.T10),,Brown STEAL (1 STL),,
+280,42100301,416,2,79,3,10:25 PM,4:09,,,MISS Brown 25' 3PT Pullup Jump Shot,,
+281,42100301,417,4,0,3,10:25 PM,4:06,,,Theis REBOUND (Off:1 Def:1),,
+282,42100301,418,1,72,3,10:25 PM,4:06,,,Theis 2' Putback Layup (6 PTS),73 - 76,3
+283,42100301,419,6,2,3,10:26 PM,3:50,,,White S.FOUL (P2.PN) (E.Malloy),,
+284,42100301,421,3,11,3,10:26 PM,3:50,Butler Free Throw 1 of 2 (26 PTS),,,73 - 77,4
+285,42100301,422,3,12,3,10:27 PM,3:50,Butler Free Throw 2 of 2 (27 PTS),,,73 - 78,5
+286,42100301,423,5,4,3,10:27 PM,3:35,,,Brown Traveling Turnover (P1.T12),,
+287,42100301,424,2,1,3,10:27 PM,3:23,MISS Dedmon 24' 3PT Jump Shot,,,,
+288,42100301,425,4,0,3,10:27 PM,3:20,,,Tatum REBOUND (Off:0 Def:6),,
+289,42100301,426,6,2,3,10:27 PM,3:18,Dedmon S.FOUL (P1.PN) (E.Malloy),,,,
+290,42100301,428,3,11,3,10:28 PM,3:18,,,Tatum Free Throw 1 of 2 (24 PTS),74 - 78,4
+291,42100301,429,3,12,3,10:28 PM,3:18,,,MISS Tatum Free Throw 2 of 2,,
+292,42100301,430,4,0,3,10:28 PM,3:15,Herro REBOUND (Off:1 Def:4),,,,
+293,42100301,431,6,2,3,10:28 PM,3:10,,,Theis S.FOUL (P1.PN) (E.Malloy),,
+294,42100301,433,3,11,3,10:29 PM,3:10,Vincent Free Throw 1 of 2 (9 PTS),,,74 - 79,5
+295,42100301,434,3,12,3,10:29 PM,3:10,Vincent Free Throw 2 of 2 (10 PTS),,,74 - 80,6
+296,42100301,436,5,1,3,10:29 PM,3:00,,,Brown Bad Pass Turnover (P2.T13),,
+297,42100301,438,6,3,3,10:30 PM,2:59,,,Williams L.B.FOUL (P4.PN) (E.Malloy),,
+298,42100301,440,3,11,3,10:30 PM,2:59,MISS Tucker Free Throw 1 of 2,,,,
+299,42100301,441,4,1,3,10:30 PM,2:59,HEAT Rebound,,,,
+300,42100301,444,3,12,3,10:30 PM,2:59,MISS Tucker Free Throw 2 of 2,,,,
+301,42100301,442,8,0,3,10:30 PM,2:59,,,SUB: Nesmith FOR Williams,,
+302,42100301,445,4,0,3,10:30 PM,2:55,Dedmon REBOUND (Off:1 Def:0),,,,
+303,42100301,446,1,63,3,10:31 PM,2:44,Dedmon 1' Fadeaway Jumper (4 PTS) (Vincent 2 AST),,,74 - 82,8
+304,42100301,448,6,2,3,10:31 PM,2:29,Tucker S.FOUL (P3.PN) (Z.Zarba),,,,
+305,42100301,451,3,11,3,10:32 PM,2:29,,,Tatum Free Throw 1 of 2 (25 PTS),75 - 82,7
+306,42100301,452,3,12,3,10:32 PM,2:29,,,Tatum Free Throw 2 of 2 (26 PTS),76 - 82,6
+307,42100301,453,1,86,3,10:32 PM,2:18,Vincent 15' Turnaround Fadeaway (12 PTS),,,76 - 84,8
+308,42100301,454,2,1,3,10:33 PM,2:05,,,MISS Brown 24' 3PT Jump Shot,,
+309,42100301,455,4,0,3,10:33 PM,2:02,Herro REBOUND (Off:1 Def:5),,,,
+310,42100301,457,1,80,3,10:33 PM,1:44,Vincent 25' 3PT Step Back Jump Shot (15 PTS) (Tucker 3 AST),,,76 - 87,11
+311,42100301,458,2,1,3,10:33 PM,1:31,,,MISS Nesmith 26' 3PT Jump Shot,,
+312,42100301,459,4,0,3,10:34 PM,1:27,Herro REBOUND (Off:1 Def:6),,,,
+313,42100301,460,2,108,3,10:34 PM,1:18,MISS Dedmon 1' Cutting Dunk Shot,,Theis BLOCK (1 BLK),,
+314,42100301,462,4,0,3,10:34 PM,1:16,Dedmon REBOUND (Off:2 Def:0),,,,
+315,42100301,463,2,1,3,10:34 PM,1:16,MISS Dedmon 3' Jump Shot,,,,
+316,42100301,464,4,0,3,10:34 PM,1:16,,,Celtics Rebound,,
+317,42100301,466,8,0,3,10:34 PM,1:16,SUB: Oladipo FOR Tucker,,,,
+318,42100301,468,2,6,3,10:34 PM,1:11,Butler BLOCK (1 BLK),,MISS Brown 2' Driving Layup,,
+319,42100301,470,4,0,3,10:34 PM,1:07,Herro REBOUND (Off:1 Def:7),,,,
+320,42100301,471,6,2,3,10:34 PM,1:06,,,Theis S.FOUL (P2.PN) (T.Brothers),,
+321,42100301,473,3,11,3,10:35 PM,1:06,Butler Free Throw 1 of 2 (28 PTS),,,76 - 88,12
+322,42100301,474,8,0,3,10:35 PM,1:06,,,SUB: Pritchard FOR White,,
+323,42100301,476,8,0,3,10:35 PM,1:06,,,SUB: Williams FOR Brown,,
+324,42100301,478,3,12,3,10:35 PM,1:06,Butler Free Throw 2 of 2 (29 PTS),,,76 - 89,13
+325,42100301,479,5,2,3,10:36 PM,0:58,Oladipo STEAL (2 STL),,Tatum Lost Ball Turnover (P6.T14),,
+326,42100301,481,10,0,3,10:36 PM,0:55,Jump Ball Oladipo vs. Tatum: Tip to Theis,,,,
+327,42100301,484,5,2,3,10:36 PM,0:55,Oladipo Lost Ball Turnover (P1.T11),,Tatum STEAL (4 STL),,
+328,42100301,486,2,1,3,10:36 PM,0:48,,,MISS Nesmith 3PT Jump Shot,,
+329,42100301,487,4,0,3,10:36 PM,0:45,Dedmon REBOUND (Off:2 Def:1),,,,
+330,42100301,488,6,1,3,10:36 PM,0:43,,,Tatum P.FOUL (P1.PN) (T.Brothers),,
+331,42100301,490,3,11,3,10:37 PM,0:43,Dedmon Free Throw 1 of 2 (5 PTS),,,76 - 90,14
+332,42100301,491,3,12,3,10:37 PM,0:43,Dedmon Free Throw 2 of 2 (6 PTS),,,76 - 91,15
+333,42100301,492,2,101,3,10:38 PM,0:31,,,MISS Pritchard 10' Driving Floating Jump Shot,,
+334,42100301,493,4,0,3,10:38 PM,0:27,Dedmon REBOUND (Off:2 Def:2),,,,
+335,42100301,494,2,101,3,10:38 PM,0:20,MISS Herro 9' Driving Floating Jump Shot,,Nesmith BLOCK (2 BLK),,
+336,42100301,496,4,0,3,10:38 PM,0:16,,,Theis REBOUND (Off:1 Def:2),,
+337,42100301,497,5,2,3,10:38 PM,0:06,Butler STEAL (4 STL),,Tatum Lost Ball Turnover (P7.T15),,
+338,42100301,499,2,41,3,10:38 PM,0:02,MISS Oladipo 1' Running Layup,,Nesmith BLOCK (3 BLK),,
+339,42100301,501,4,0,3,10:38 PM,0:00,Butler REBOUND (Off:5 Def:2),,,,
+340,42100301,502,6,2,3,10:38 PM,0:00,,,Nesmith S.FOUL (P2.PN) (E.Malloy),,
+341,42100301,504,3,11,3,10:39 PM,0:00,Butler Free Throw 1 of 2 (30 PTS),,,76 - 92,16
+342,42100301,505,3,12,3,10:39 PM,0:00,Butler Free Throw 2 of 2 (31 PTS),,,76 - 93,17
+343,42100301,506,13,0,3,10:39 PM,0:00,,End of 3rd Period (10:39 PM EST),,76 - 93,17
+344,42100301,514,12,0,4,10:43 PM,12:00,,Start of 4th Period (10:43 PM EST),,76 - 93,17
+345,42100301,515,6,1,4,10:43 PM,11:54,Oladipo P.FOUL (P2.T1) (T.Brothers),,,,
+346,42100301,517,2,1,4,10:44 PM,11:38,,,MISS Pritchard 28' 3PT Jump Shot,,
+347,42100301,518,4,0,4,10:44 PM,11:33,Oladipo REBOUND (Off:0 Def:1),,,,
+348,42100301,519,2,79,4,10:44 PM,11:13,MISS Oladipo 15' Pullup Jump Shot,,,,
+349,42100301,520,4,0,4,10:44 PM,11:11,,,Williams III REBOUND (Off:2 Def:6),,
+350,42100301,521,2,1,4,10:45 PM,10:50,Oladipo BLOCK (1 BLK),,MISS Nesmith 24' 3PT Jump Shot,,
+351,42100301,523,4,0,4,10:45 PM,10:46,Butler REBOUND (Off:5 Def:3),,,,
+352,42100301,524,6,2,4,10:45 PM,10:45,,,Nesmith S.FOUL (P3.T1) (Z.Zarba),,
+353,42100301,526,3,13,4,10:45 PM,10:45,Herro Free Throw 1 of 3 (16 PTS),,,76 - 94,18
+354,42100301,527,3,14,4,10:45 PM,10:45,Herro Free Throw 2 of 3 (17 PTS),,,76 - 95,19
+355,42100301,528,3,15,4,10:46 PM,10:45,Herro Free Throw 3 of 3 (18 PTS),,,76 - 96,20
+356,42100301,530,6,2,4,10:46 PM,10:30,Dedmon S.FOUL (P2.T2) (Z.Zarba),,,,
+357,42100301,532,3,11,4,10:46 PM,10:30,,,Pritchard Free Throw 1 of 2 (11 PTS),77 - 96,19
+358,42100301,533,3,12,4,10:47 PM,10:30,,,Pritchard Free Throw 2 of 2 (12 PTS),78 - 96,18
+359,42100301,534,5,40,4,10:47 PM,10:11,Herro Out of Bounds Lost Ball Turnover (P4.T12),,,,
+360,42100301,535,6,1,4,10:47 PM,10:03,Oladipo P.FOUL (P3.T3) (Z.Zarba),,,,
+361,42100301,537,8,0,4,10:48 PM,10:03,SUB: Tucker FOR Dedmon,,,,
+362,42100301,538,8,0,4,10:48 PM,10:03,SUB: Adebayo FOR Butler,,,,
+363,42100301,542,6,14,4,10:49 PM,9:58,Adebayo FLAGRANT.FOUL.TYPE1 (P3.T4) (E.Malloy),,,,
+364,42100301,545,18,0,4,10:49 PM,9:58,,Instant Replay4th Period (10:49 PM EST),,78 - 96,18
+365,42100301,546,3,18,4,10:51 PM,9:58,,,MISS Williams III Free Throw Flagrant 1 of 2,,
+366,42100301,547,4,1,4,10:51 PM,9:58,,,Celtics Rebound,,
+367,42100301,548,3,19,4,10:51 PM,9:58,,,Williams III Free Throw Flagrant 2 of 2 (18 PTS),79 - 96,17
+368,42100301,549,2,1,4,10:51 PM,9:45,,,MISS Pritchard 29' 3PT Jump Shot,,
+369,42100301,550,4,0,4,10:51 PM,9:40,,,Brown REBOUND (Off:1 Def:4),,
+370,42100301,552,10,0,4,10:52 PM,9:32,Jump Ball Adebayo vs. Williams III: Tip to Pritchard,,,,
+371,42100301,555,1,80,4,10:52 PM,9:30,,,Pritchard 24' 3PT Step Back Jump Shot (15 PTS),82 - 96,14
+372,42100301,556,6,16,4,10:53 PM,9:26,,"Double Technical - Strus, Williams (T.Brothers)",,,
+373,42100301,559,6,1,4,10:54 PM,9:14,,,Williams P.FOUL (P5.T2) (T.Brothers),,
+374,42100301,561,18,0,4,10:54 PM,9:14,,Instant Replay4th Period (10:54 PM EST),,82 - 96,14
+375,42100301,562,8,0,4,10:55 PM,9:14,,,SUB: Tatum FOR Nesmith,,
+376,42100301,564,2,63,4,10:55 PM,9:07,MISS Herro 24' 3PT Fadeaway Jumper,,,,
+377,42100301,565,4,0,4,10:55 PM,9:04,,,Williams III REBOUND (Off:2 Def:7),,
+378,42100301,566,6,1,4,10:55 PM,9:04,Tucker P.FOUL (P4.PN) (E.Malloy),,,,
+379,42100301,569,3,11,4,10:55 PM,9:04,,,MISS Brown Free Throw 1 of 2,,
+380,42100301,570,4,1,4,10:55 PM,9:04,,,Celtics Rebound,,
+381,42100301,571,3,12,4,10:55 PM,9:04,,,MISS Brown Free Throw 2 of 2,,
+382,42100301,572,4,0,4,10:55 PM,9:02,,,Celtics Rebound,,
+383,42100301,574,1,1,4,10:56 PM,8:58,,,Brown 16' Jump Shot (11 PTS) (Pritchard 3 AST),84 - 96,12
+384,42100301,576,2,101,4,10:57 PM,8:29,MISS Oladipo 8' Driving Floating Jump Shot,,,,
+385,42100301,577,4,0,4,10:57 PM,8:24,,,Brown REBOUND (Off:1 Def:5),,
+386,42100301,578,6,1,4,10:57 PM,8:21,Adebayo P.FOUL (P4.PN) (Z.Zarba),,,,
+387,42100301,581,3,11,4,10:58 PM,8:21,,,Williams Free Throw 1 of 2 (6 PTS),85 - 96,11
+388,42100301,582,8,0,4,10:58 PM,8:21,SUB: Butler FOR Oladipo,,,,
+389,42100301,584,3,12,4,10:58 PM,8:21,,,Williams Free Throw 2 of 2 (7 PTS),86 - 96,10
+390,42100301,585,9,1,4,10:59 PM,8:11,HEAT Timeout: Regular (Full 4 Short 0),,,,
+391,42100301,586,8,0,4,10:59 PM,8:11,SUB: Vincent FOR Herro,,,,
+392,42100301,588,1,63,4,11:03 PM,7:52,Butler 21' Fadeaway Jumper (33 PTS) (Strus 1 AST),,,86 - 98,12
+393,42100301,590,1,79,4,11:03 PM,7:35,,,Tatum 25' 3PT Pullup Jump Shot (29 PTS),89 - 98,9
+394,42100301,591,1,1,4,11:03 PM,7:15,Tucker 24' 3PT Jump Shot (5 PTS) (Vincent 3 AST),,,89 - 101,12
+395,42100301,593,1,80,4,11:04 PM,6:57,,,Brown 24' 3PT Step Back Jump Shot (14 PTS),92 - 101,9
+396,42100301,594,1,1,4,11:04 PM,6:34,Strus 27' 3PT Jump Shot (8 PTS) (Butler 4 AST),,,92 - 104,12
+397,42100301,596,5,39,4,11:04 PM,6:23,,,Williams Step Out of Bounds Turnover (P2.T16),,
+398,42100301,597,6,2,4,11:05 PM,6:02,,,Williams III S.FOUL (P3.T3) (Z.Zarba),,
+399,42100301,599,9,1,4,11:05 PM,6:02,,,Celtics Timeout: Regular (Reg.4 Short 0),,
+400,42100301,600,8,0,4,11:07 PM,6:02,,,SUB: White FOR Williams,,
+401,42100301,601,8,0,4,11:07 PM,6:02,,,SUB: Theis FOR Williams III,,
+402,42100301,604,3,11,4,11:09 PM,6:02,Adebayo Free Throw 1 of 2 (10 PTS),,,92 - 105,13
+403,42100301,605,3,12,4,11:09 PM,6:02,MISS Adebayo Free Throw 2 of 2,,,,
+404,42100301,606,4,0,4,11:09 PM,6:00,,,Brown REBOUND (Off:1 Def:6),,
+405,42100301,621,2,6,4,11:10 PM,5:52,Adebayo BLOCK (4 BLK),,MISS Tatum 4' Driving Layup,,
+406,42100301,623,4,0,4,11:10 PM,5:51,,,Tatum REBOUND (Off:1 Def:6),,
+407,42100301,607,10,0,4,11:11 PM,5:35,Jump Ball Adebayo vs. Theis: Tip to Theis,,,,
+408,42100301,610,2,1,4,11:11 PM,5:33,,,MISS Theis 7' Jump Shot,,
+409,42100301,611,4,0,4,11:11 PM,5:29,,,Brown REBOUND (Off:2 Def:6),,
+410,42100301,612,2,97,4,11:11 PM,5:29,,,MISS Brown Tip Layup Shot,,
+411,42100301,613,4,0,4,11:11 PM,5:27,Strus REBOUND (Off:1 Def:1),,,,
+412,42100301,614,2,103,4,11:11 PM,5:24,MISS Butler 15' Running Pull-Up Jump Shot,,,,
+413,42100301,615,4,0,4,11:11 PM,5:22,,,Brown REBOUND (Off:2 Def:7),,
+414,42100301,616,6,2,4,11:11 PM,5:19,Vincent S.FOUL (P4.PN) (Z.Zarba),,,,
+415,42100301,618,3,11,4,11:11 PM,5:19,,,Brown Free Throw 1 of 2 (15 PTS),93 - 105,12
+416,42100301,619,3,12,4,11:12 PM,5:19,,,Brown Free Throw 2 of 2 (16 PTS),94 - 105,11
+417,42100301,620,1,47,4,11:12 PM,5:00,Butler 14' Turnaround Jump Shot (35 PTS),,,94 - 107,13
+418,42100301,624,2,1,4,11:12 PM,4:44,Butler BLOCK (2 BLK),,MISS Tatum 24' 3PT Jump Shot,,
+419,42100301,626,4,0,4,11:12 PM,4:44,,,Celtics Rebound,,
+420,42100301,628,1,43,4,11:13 PM,4:36,,,Theis 1' Alley Oop Layup (8 PTS) (Pritchard 4 AST),96 - 107,11
+421,42100301,630,6,2,4,11:13 PM,4:16,,,White S.FOUL (P3.T4) (E.Malloy),,
+422,42100301,632,3,11,4,11:14 PM,4:16,Butler Free Throw 1 of 2 (36 PTS),,,96 - 108,12
+423,42100301,633,3,12,4,11:14 PM,4:16,Butler Free Throw 2 of 2 (37 PTS),,,96 - 109,13
+424,42100301,634,2,80,4,11:14 PM,4:08,,,MISS Pritchard 27' 3PT Step Back Jump Shot,,
+425,42100301,635,4,0,4,11:14 PM,4:06,Tucker REBOUND (Off:0 Def:5),,,,
+426,42100301,636,2,1,4,11:14 PM,3:50,MISS Vincent 3PT Jump Shot,,,,
+427,42100301,637,4,0,4,11:14 PM,3:48,,,Pritchard REBOUND (Off:1 Def:4),,
+428,42100301,638,1,1,4,11:15 PM,3:41,,,Brown 26' 3PT Jump Shot (19 PTS) (Theis 2 AST),99 - 109,10
+429,42100301,640,9,1,4,11:15 PM,3:29,HEAT Timeout: Regular (Full 5 Short 0),,,,
+430,42100301,641,1,1,4,11:17 PM,3:18,Strus 27' 3PT Jump Shot (11 PTS) (Butler 5 AST),,,99 - 112,13
+431,42100301,643,9,1,4,11:17 PM,3:09,,,Celtics Timeout: Regular (Reg.5 Short 0),,
+432,42100301,644,1,1,4,11:19 PM,2:55,,,Brown 24' 3PT Jump Shot (22 PTS) (Tatum 6 AST),102 - 112,10
+433,42100301,646,1,86,4,11:19 PM,2:30,Butler 11' Turnaround Fadeaway (39 PTS),,,102 - 114,12
+434,42100301,647,6,1,4,11:19 PM,2:24,Butler P.FOUL (P3.PN) (Z.Zarba),,,,
+435,42100301,650,3,11,4,11:20 PM,2:24,,,Brown Free Throw 1 of 2 (23 PTS),103 - 114,11
+436,42100301,651,3,12,4,11:20 PM,2:24,,,Brown Free Throw 2 of 2 (24 PTS),104 - 114,10
+437,42100301,652,2,1,4,11:20 PM,2:07,MISS Tucker 24' 3PT Jump Shot,,,,
+438,42100301,653,4,0,4,11:20 PM,2:05,,,Brown REBOUND (Off:2 Def:8),,
+439,42100301,654,2,1,4,11:21 PM,1:56,,,MISS Tatum 26' 3PT Jump Shot,,
+440,42100301,655,4,0,4,11:21 PM,1:55,Tucker REBOUND (Off:0 Def:6),,,,
+441,42100301,656,2,86,4,11:21 PM,1:33,MISS Adebayo 10' Turnaround Fadeaway Shot,,,,
+442,42100301,657,4,0,4,11:21 PM,1:30,,,Theis REBOUND (Off:1 Def:3),,
+443,42100301,658,1,103,4,11:21 PM,1:28,,,Pritchard 25' 3PT Running Pull-Up Jump Shot (18 PTS),107 - 114,7
+444,42100301,660,6,1,4,11:21 PM,1:25,,,White P.FOUL (P4.PN) (T.Brothers),,
+445,42100301,662,3,11,4,11:22 PM,1:25,Vincent Free Throw 1 of 2 (16 PTS),,,107 - 115,8
+446,42100301,663,3,12,4,11:22 PM,1:25,Vincent Free Throw 2 of 2 (17 PTS),,,107 - 116,9
+447,42100301,664,2,6,4,11:22 PM,1:13,Butler BLOCK (3 BLK),,MISS Pritchard 2' Driving Layup,,
+448,42100301,666,4,0,4,11:22 PM,1:10,Butler REBOUND (Off:5 Def:4),,,,
+449,42100301,667,2,1,4,11:23 PM,0:51,MISS Butler 27' 3PT Jump Shot,,,,
+450,42100301,668,4,0,4,11:23 PM,0:48,,,Tatum REBOUND (Off:1 Def:7),,
+451,42100301,669,2,6,4,11:23 PM,0:43,,,MISS Tatum 3' Driving Layup,,
+452,42100301,670,4,0,4,11:23 PM,0:41,Strus REBOUND (Off:1 Def:2),,,,
+453,42100301,671,1,5,4,11:23 PM,0:35,Butler 2' Layup (41 PTS) (Strus 2 AST),,,107 - 118,11
+454,42100301,673,2,79,4,11:23 PM,0:28,,,MISS Pritchard 27' 3PT Pullup Jump Shot,,
+455,42100301,674,4,0,4,11:23 PM,0:28,Strus REBOUND (Off:1 Def:3),,,,
+456,42100301,675,5,11,4,11:23 PM,0:03,HEAT Turnover: Shot Clock (T#13),,,,
+457,42100301,676,13,0,4,11:24 PM,0:00,,End of 4th Period (11:24 PM EST),,107 - 118,11

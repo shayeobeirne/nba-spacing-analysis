@@ -1,0 +1,461 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0,42100404,2,12,0,1,9:08 PM,12:00,,Start of 1st Period (9:08 PM EST),,,
+1,42100404,4,10,0,1,9:08 PM,12:00,Jump Ball Williams III vs. Green: Tip to Smart,BOS,,,
+2,42100404,7,1,75,1,9:08 PM,11:49,Smart 6' Driving Finger Roll Layup (2 PTS) (Tatum 1 AST),,,0 - 2,2
+3,42100404,9,1,75,1,9:09 PM,11:22,,,Thompson 4' Driving Finger Roll Layup (2 PTS), 2 - 2,TIE
+4,42100404,10,6,2,1,9:09 PM,10:56,,,Curry S.FOUL (P1.T1) (K.Fitzgerald),,
+5,42100404,12,3,11,1,9:10 PM,10:56,MISS Tatum Free Throw 1 of 2,,,,
+6,42100404,13,4,1,1,9:10 PM,10:56,CELTICS Rebound,,,,
+7,42100404,14,3,12,1,9:10 PM,10:56,Tatum Free Throw 2 of 2 (1 PTS),,, 2 - 3,1
+8,42100404,15,6,2,1,9:10 PM,10:44,Smart S.FOUL (P1.T1) (K.Fitzgerald),,,,
+9,42100404,17,3,11,1,9:11 PM,10:44,,,Curry Free Throw 1 of 2 (1 PTS), 3 - 3,TIE
+10,42100404,18,3,12,1,9:11 PM,10:44,,,Curry Free Throw 2 of 2 (2 PTS), 4 - 3,-1
+11,42100404,19,5,45,1,9:11 PM,10:35,Smart Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,,
+12,42100404,20,2,1,1,9:11 PM,10:21,,,MISS Curry 29' 3PT Jump Shot,,
+13,42100404,21,4,0,1,9:11 PM,10:18,Tatum REBOUND (Off:0 Def:1),,,,
+14,42100404,22,1,1,1,9:12 PM,10:01,Tatum 26' 3PT Jump Shot (4 PTS) (Smart 1 AST),,, 4 - 6,2
+15,42100404,24,2,6,1,9:12 PM,9:52,Williams III BLOCK (1 BLK),,MISS Curry 8' Driving Layup,,
+16,42100404,26,4,0,1,9:12 PM,9:51,,,Warriors Rebound,,
+17,42100404,28,2,79,1,9:12 PM,9:45,,,MISS Thompson 22' Pullup Jump Shot,,
+18,42100404,29,4,0,1,9:12 PM,9:43,Tatum REBOUND (Off:0 Def:2),,,,
+19,42100404,30,2,1,1,9:12 PM,9:33,MISS Horford 3PT Jump Shot,,,,
+20,42100404,31,4,0,1,9:12 PM,9:32,Williams III REBOUND (Off:1 Def:0),,,,
+21,42100404,32,1,72,1,9:12 PM,9:31,Williams III 3' Putback Layup (2 PTS),,, 4 - 8,4
+22,42100404,33,5,2,1,9:13 PM,9:20,Smart STEAL (1 STL),,Curry Lost Ball Turnover (P1.T1),,
+23,42100404,35,1,2,1,9:13 PM,9:15,Tatum 24' 3PT Running Jump Shot (7 PTS) (Smart 2 AST),,, 4 - 11,7
+24,42100404,37,2,1,1,9:13 PM,8:58,,,MISS Curry 29' 3PT Jump Shot,,
+25,42100404,38,4,0,1,9:13 PM,8:56,Williams III REBOUND (Off:1 Def:1),,,,
+26,42100404,39,2,63,1,9:13 PM,8:47,MISS Tatum 15' Fadeaway Jumper,,,,
+27,42100404,40,4,0,1,9:13 PM,8:45,,,Curry REBOUND (Off:0 Def:1),,
+28,42100404,41,2,2,1,9:13 PM,8:41,,,MISS Porter Jr. 24' 3PT Running Jump Shot,,
+29,42100404,42,4,0,1,9:13 PM,8:39,Horford REBOUND (Off:0 Def:1),,,,
+30,42100404,43,2,1,1,9:14 PM,8:24,MISS Smart 25' 3PT Jump Shot,,,,
+31,42100404,44,4,0,1,9:14 PM,8:22,,,Green REBOUND (Off:0 Def:1),,
+32,42100404,45,2,1,1,9:14 PM,8:16,,,MISS Wiggins 28' 3PT Jump Shot,,
+33,42100404,46,4,0,1,9:14 PM,8:14,Horford REBOUND (Off:0 Def:2),,,,
+34,42100404,47,5,1,1,9:14 PM,7:57,Smart Bad Pass Turnover (P2.T2),,Green STEAL (1 STL),,
+35,42100404,49,1,41,1,9:14 PM,7:53,,,Curry 4' Running Layup (4 PTS) (Green 1 AST), 6 - 11,5
+36,42100404,51,2,80,1,9:14 PM,7:31,MISS Brown 16' Step Back Jump Shot,,,,
+37,42100404,52,4,0,1,9:14 PM,7:28,Williams III REBOUND (Off:2 Def:1),,,,
+38,42100404,53,6,2,1,9:15 PM,7:23,,,Wiggins S.FOUL (P1.T2) (J.Capers),,
+39,42100404,55,3,11,1,9:15 PM,7:23,Williams III Free Throw 1 of 2 (3 PTS),,, 6 - 12,6
+40,42100404,60,3,12,1,9:15 PM,7:23,MISS Williams III Free Throw 2 of 2,,,,
+41,42100404,61,4,0,1,9:15 PM,7:23,,,Green REBOUND (Off:0 Def:2),,
+42,42100404,56,8,0,1,9:15 PM,7:23,SUB: White FOR Horford,,,,
+43,42100404,57,8,0,1,9:15 PM,7:23,,,SUB: Looney FOR Porter Jr.,,
+44,42100404,62,2,1,1,9:16 PM,7:06,,,MISS Green 27' 3PT Jump Shot,,
+45,42100404,63,4,0,1,9:16 PM,7:04,,,Looney REBOUND (Off:1 Def:0),,
+46,42100404,64,6,4,1,9:16 PM,7:02,,,Looney OFF.Foul (P1) (K.Fitzgerald),,
+47,42100404,66,5,37,1,9:16 PM,7:02,,,Looney Offensive Foul Turnover (P1.T2),,
+48,42100404,67,8,0,1,9:16 PM,7:02,SUB: Horford FOR Williams III,,,,
+49,42100404,69,6,4,1,9:17 PM,6:41,Tatum OFF.Foul (P1) (J.Capers),,,,
+50,42100404,71,5,37,1,9:17 PM,6:41,Tatum Offensive Foul Turnover (P1.T3),,,,
+51,42100404,72,9,1,1,9:17 PM,6:41,CELTICS Timeout: Regular (Full 1 Short 0),,,,
+52,42100404,73,18,0,1,9:17 PM,6:41,,Instant Replay1st Period (9:17 PM EST),, 6 - 12,6
+53,42100404,74,5,6,1,9:21 PM,6:27,,,Thompson Double Dribble Turnover (P1.T3),,
+54,42100404,75,2,6,1,9:21 PM,6:12,MISS Brown 7' Driving Layup,,,,
+55,42100404,76,4,0,1,9:21 PM,6:09,,,Looney REBOUND (Off:1 Def:1),,
+56,42100404,77,1,1,1,9:22 PM,6:03,,,Thompson 26' 3PT Jump Shot (5 PTS) (Green 2 AST), 9 - 12,3
+57,42100404,79,2,101,1,9:22 PM,5:46,MISS White 8' Driving Floating Jump Shot,,,,
+58,42100404,80,4,0,1,9:22 PM,5:44,,,Looney REBOUND (Off:1 Def:2),,
+59,42100404,81,2,79,1,9:22 PM,5:32,,,MISS Curry 31' 3PT Pullup Jump Shot,,
+60,42100404,82,4,0,1,9:22 PM,5:29,,,Looney REBOUND (Off:2 Def:2),,
+61,42100404,83,1,1,1,9:22 PM,5:24,,,Wiggins 27' 3PT Jump Shot (3 PTS) (Curry 1 AST), 12 - 12,TIE
+62,42100404,85,1,86,1,9:22 PM,5:08,Tatum 15' Turnaround Fadeaway (9 PTS) (Brown 1 AST),,, 12 - 14,2
+63,42100404,87,2,63,1,9:23 PM,4:53,,,MISS Thompson 11' Fadeaway Jumper,,
+64,42100404,88,4,0,1,9:23 PM,4:51,Tatum REBOUND (Off:0 Def:3),,,,
+65,42100404,89,6,2,1,9:23 PM,4:44,,,Green S.FOUL (P1.T3) (K.Fitzgerald),,
+66,42100404,91,3,11,1,9:23 PM,4:44,White Free Throw 1 of 2 (1 PTS),,, 12 - 15,3
+67,42100404,92,8,0,1,9:23 PM,4:44,SUB: Williams FOR Tatum,,,,
+68,42100404,94,3,12,1,9:24 PM,4:44,White Free Throw 2 of 2 (2 PTS),,, 12 - 16,4
+69,42100404,95,6,1,1,9:24 PM,4:35,Williams P.FOUL (P1.T2) (E.Lewis),,,,
+70,42100404,97,7,5,1,9:25 PM,4:23,Horford Violation:Kicked Ball (K.Fitzgerald),,,,
+71,42100404,98,6,4,1,9:25 PM,4:18,,,Green OFF.Foul (P2) (K.Fitzgerald),,
+72,42100404,100,5,37,1,9:25 PM,4:18,,,Green Offensive Foul Turnover (P1.T4),,
+73,42100404,101,8,0,1,9:25 PM,4:18,,,SUB: Porter Jr. FOR Green,,
+74,42100404,103,2,1,1,9:26 PM,3:57,MISS Williams 24' 3PT Jump Shot,,,,
+75,42100404,104,4,0,1,9:26 PM,3:55,,,Looney REBOUND (Off:2 Def:3),,
+76,42100404,105,1,80,1,9:26 PM,3:44,,,Wiggins 28' 3PT Step Back Jump Shot (6 PTS) (Looney 1 AST),15 - 16,1
+77,42100404,107,6,2,1,9:26 PM,3:25,,,Looney S.FOUL (P2.T4) (K.Fitzgerald),,
+78,42100404,109,3,11,1,9:27 PM,3:25,White Free Throw 1 of 2 (3 PTS),,,15 - 17,2
+79,42100404,110,8,0,1,9:27 PM,3:25,,,SUB: Payton II FOR Thompson,,
+80,42100404,112,3,12,1,9:27 PM,3:25,White Free Throw 2 of 2 (4 PTS),,,15 - 18,3
+81,42100404,113,1,86,1,9:27 PM,3:06,,,Wiggins 15' Turnaround Fadeaway (8 PTS),17 - 18,1
+82,42100404,114,5,2,1,9:28 PM,2:54,White Lost Ball Turnover (P1.T4),,Payton II STEAL (1 STL),,
+83,42100404,116,1,80,1,9:28 PM,2:48,,,Curry 27' 3PT Step Back Jump Shot (7 PTS),20 - 18,-2
+84,42100404,117,2,79,1,9:28 PM,2:18,MISS Smart 26' 3PT Pullup Jump Shot,,,,
+85,42100404,118,4,0,1,9:28 PM,2:17,,,Curry REBOUND (Off:0 Def:2),,
+86,42100404,119,1,80,1,9:29 PM,2:03,,,Curry 30' 3PT Step Back Jump Shot (10 PTS),23 - 18,-5
+87,42100404,120,9,1,1,9:29 PM,2:01,CELTICS Timeout: Regular (Full 2 Short 0),,,,
+88,42100404,121,8,0,1,9:32 PM,2:01,SUB: Williams III FOR Smart,,,,
+89,42100404,122,8,0,1,9:32 PM,2:01,SUB: Tatum FOR Horford,,,,
+90,42100404,123,8,0,1,9:32 PM,2:01,,,SUB: Poole FOR Wiggins,,
+91,42100404,127,2,6,1,9:33 PM,1:41,MISS Brown 3' Driving Layup,,,,
+92,42100404,128,4,0,1,9:33 PM,1:39,,,Curry REBOUND (Off:0 Def:3),,
+93,42100404,129,2,1,1,9:33 PM,1:27,,,MISS Curry 28' 3PT Jump Shot,,
+94,42100404,130,4,0,1,9:33 PM,1:25,Williams III REBOUND (Off:2 Def:2),,,,
+95,42100404,131,1,41,1,9:33 PM,1:19,Brown 6' Running Layup (2 PTS) (Tatum 2 AST),,,23 - 20,-3
+96,42100404,133,5,45,1,9:33 PM,1:08,,,Looney Out of Bounds - Bad Pass Turnover Turnover (P2.T5),,
+97,42100404,134,2,6,1,9:34 PM,0:58,MISS Tatum 5' Driving Layup,,,,
+98,42100404,135,4,0,1,9:34 PM,0:57,Williams III REBOUND (Off:3 Def:2),,,,
+99,42100404,136,1,72,1,9:34 PM,0:56,Williams III 4' Putback Layup (5 PTS),,,23 - 22,-1
+100,42100404,137,6,1,1,9:34 PM,0:42,Williams P.FOUL (P2.T3) (J.Capers),,,,
+101,42100404,139,1,102,1,9:34 PM,0:38,,,Curry 8' Driving Floating Bank Jump Shot (12 PTS),25 - 22,-3
+102,42100404,140,1,79,1,9:35 PM,0:30,Tatum 25' 3PT Pullup Jump Shot (12 PTS),,,25 - 25,TIE
+103,42100404,141,1,6,1,9:35 PM,0:08,,,Poole 5' Driving Layup (2 PTS) (Curry 2 AST),27 - 25,-2
+104,42100404,143,1,1,1,9:35 PM,0:01,Williams 3PT Jump Shot (3 PTS) (Williams III 1 AST),,,27 - 28,1
+105,42100404,145,13,0,1,9:36 PM,0:00,,End of 1st Period (9:36 PM EST),,27 - 28,1
+106,42100404,157,12,0,2,9:39 PM,12:00,,Start of 2nd Period (9:39 PM EST),,27 - 28,1
+107,42100404,158,2,63,2,9:39 PM,11:42,,,MISS Poole 18' Fadeaway Jumper,,
+108,42100404,159,4,0,2,9:39 PM,11:39,Williams REBOUND (Off:0 Def:1),,,,
+109,42100404,160,2,6,2,9:40 PM,11:31,MISS Tatum 7' Driving Layup,,,,
+110,42100404,161,4,0,2,9:40 PM,11:27,,,Wiggins REBOUND (Off:0 Def:1),,
+111,42100404,162,2,86,2,9:40 PM,11:18,,,MISS Thompson 13' Turnaround Fadeaway Shot,,
+112,42100404,163,4,0,2,9:40 PM,11:15,Williams III REBOUND (Off:3 Def:3),,,,
+113,42100404,164,2,6,2,9:40 PM,11:01,MISS White 4' Driving Layup,,,,
+114,42100404,166,4,0,2,9:40 PM,11:00,Williams III REBOUND (Off:4 Def:3),,,,
+115,42100404,167,2,1,2,9:40 PM,10:58,MISS Pritchard 26' 3PT Jump Shot,,,,
+116,42100404,168,4,0,2,9:40 PM,10:56,,,Wiggins REBOUND (Off:0 Def:2),,
+117,42100404,169,2,1,2,9:40 PM,10:49,,,MISS Poole 28' 3PT Jump Shot,,
+118,42100404,170,4,0,2,9:40 PM,10:47,Williams III REBOUND (Off:4 Def:4),,,,
+119,42100404,171,2,101,2,9:41 PM,10:33,MISS Tatum 8' Driving Floating Jump Shot,,,,
+120,42100404,172,4,0,2,9:41 PM,10:32,,,Bjelica REBOUND (Off:0 Def:1),,
+121,42100404,173,2,80,2,9:41 PM,10:24,,,MISS Thompson 24' 3PT Step Back Jump Shot,,
+122,42100404,174,4,0,2,9:41 PM,10:23,Williams III REBOUND (Off:4 Def:5),,,,
+123,42100404,175,5,1,2,9:41 PM,10:06,Tatum Bad Pass Turnover (P2.T5),,Wiggins STEAL (1 STL),,
+124,42100404,178,6,1,2,9:41 PM,9:52,Williams P.FOUL (P3.T1) (K.Fitzgerald),,,,
+125,42100404,180,8,0,2,9:42 PM,9:52,SUB: Smart FOR Williams,,,,
+126,42100404,182,1,79,2,9:42 PM,9:49,,,Poole 28' 3PT Pullup Jump Shot (5 PTS) (Thompson 1 AST),30 - 28,-2
+127,42100404,184,5,1,2,9:42 PM,9:32,Tatum Bad Pass Turnover (P3.T6),,Green STEAL (2 STL),,
+128,42100404,186,1,103,2,9:42 PM,9:29,,,Poole 28' 3PT Running Pull-Up Jump Shot (8 PTS),33 - 28,-5
+129,42100404,187,9,1,2,9:42 PM,9:27,CELTICS Timeout: Regular (Full 3 Short 0),,,,
+130,42100404,188,8,0,2,9:45 PM,9:27,SUB: Brown FOR White,,,,
+131,42100404,190,2,1,2,9:46 PM,9:13,MISS Tatum 21' Jump Shot,,,,
+132,42100404,191,4,0,2,9:46 PM,9:11,,,Wiggins REBOUND (Off:0 Def:3),,
+133,42100404,192,2,101,2,9:47 PM,8:56,,,MISS Green 3' Driving Floating Jump Shot,,
+134,42100404,193,4,0,2,9:47 PM,8:54,Tatum REBOUND (Off:0 Def:4),,,,
+135,42100404,194,1,1,2,9:47 PM,8:44,Brown 24' 3PT Jump Shot (5 PTS) (Tatum 3 AST),,,33 - 31,-2
+136,42100404,196,2,1,2,9:47 PM,8:29,,,MISS Poole 29' 3PT Jump Shot,,
+137,42100404,197,4,0,2,9:47 PM,8:27,Brown REBOUND (Off:0 Def:1),,,,
+138,42100404,198,5,39,2,9:47 PM,8:16,Pritchard Step Out of Bounds Turnover (P1.T7),,,,
+139,42100404,199,2,86,2,9:48 PM,8:04,Tatum BLOCK (1 BLK),,MISS Wiggins 19' Turnaround Fadeaway Shot,,
+140,42100404,200,4,0,2,9:48 PM,8:02,Williams III REBOUND (Off:4 Def:6),,,,
+141,42100404,202,2,2,2,9:48 PM,7:57,MISS Tatum 25' 3PT Running Jump Shot,,,,
+142,42100404,203,4,0,2,9:48 PM,7:55,,,Wiggins REBOUND (Off:0 Def:4),,
+143,42100404,204,1,79,2,9:48 PM,7:42,,,Poole 17' Pullup Jump Shot (10 PTS),35 - 31,-4
+144,42100404,205,1,1,2,9:48 PM,7:28,Brown 28' 3PT Jump Shot (8 PTS) (Williams III 2 AST),,,35 - 34,-1
+145,42100404,207,6,2,2,9:48 PM,7:28,,,Thompson S.FOUL (P1.T1) (K.Fitzgerald),,
+146,42100404,209,8,0,2,9:49 PM,7:28,,,SUB: Curry FOR Bjelica,,
+147,42100404,211,3,10,2,9:49 PM,7:28,MISS Brown Free Throw 1 of 1,,,,
+148,42100404,212,4,0,2,9:49 PM,7:28,,,Thompson REBOUND (Off:0 Def:1),,
+149,42100404,213,2,79,2,9:49 PM,7:20,,,MISS Poole 29' 3PT Pullup Jump Shot,,
+150,42100404,214,4,0,2,9:49 PM,7:18,,,Curry REBOUND (Off:1 Def:3),,
+151,42100404,215,1,71,2,9:49 PM,7:15,,,Curry 6' Finger Roll Layup (14 PTS),37 - 34,-3
+152,42100404,216,6,2,2,9:50 PM,6:56,,,Poole S.FOUL (P1.T2) (J.Capers),,
+153,42100404,218,6,11,2,9:50 PM,6:56,,Steve Kerr Foul:T.FOUL (J.Capers),,,
+154,42100404,219,3,16,2,9:50 PM,6:56,MISS Tatum Free Throw Technical,,,,
+155,42100404,220,4,1,2,9:50 PM,6:56,CELTICS Rebound,,,,
+156,42100404,221,3,11,2,9:51 PM,6:56,MISS Pritchard Free Throw 1 of 2,,,,
+157,42100404,222,4,1,2,9:51 PM,6:56,CELTICS Rebound,,,,
+158,42100404,223,8,0,2,9:51 PM,6:56,SUB: Horford FOR Williams III,,,,
+159,42100404,225,3,12,2,9:51 PM,6:56,Pritchard Free Throw 2 of 2 (1 PTS),,,37 - 35,-2
+160,42100404,226,1,73,2,9:51 PM,6:46,,,Curry 3' Driving Reverse Layup (16 PTS),39 - 35,-4
+161,42100404,227,1,6,2,9:51 PM,6:34,Tatum 4' Driving Layup (14 PTS) (Horford 1 AST),,,39 - 37,-2
+162,42100404,229,2,6,2,9:51 PM,6:24,Horford BLOCK (1 BLK),,MISS Green 4' Driving Layup,,
+163,42100404,231,4,0,2,9:51 PM,6:23,Pritchard REBOUND (Off:0 Def:1),,,,
+164,42100404,234,6,1,2,9:52 PM,6:13,,,Poole P.FOUL (P2.T3) (E.Lewis),,
+165,42100404,236,1,6,2,9:53 PM,6:03,Brown 2' Driving Layup (10 PTS),,,39 - 39,TIE
+166,42100404,238,9,1,2,9:54 PM,5:50,,,Warriors Timeout: Regular (Reg.1 Short 0),,
+167,42100404,239,8,0,2,9:57 PM,5:50,SUB: White FOR Pritchard,,,,
+168,42100404,240,8,0,2,9:57 PM,5:50,,,SUB: Payton II FOR Thompson,,
+169,42100404,241,8,0,2,9:57 PM,5:50,,,SUB: Looney FOR Green,,
+170,42100404,245,2,79,2,9:57 PM,5:44,,,MISS Curry 30' 3PT Pullup Jump Shot,,
+171,42100404,246,4,0,2,9:57 PM,5:42,Horford REBOUND (Off:0 Def:3),,,,
+172,42100404,247,2,1,2,9:58 PM,5:18,MISS Smart 14' Jump Shot,,,,
+173,42100404,248,4,0,2,9:58 PM,5:16,,,Looney REBOUND (Off:2 Def:4),,
+174,42100404,249,5,2,2,9:58 PM,5:06,White STEAL (1 STL),,Wiggins Lost Ball Turnover (P1.T6),,
+175,42100404,251,5,1,2,9:58 PM,5:02,White Bad Pass Turnover (P2.T8),,Poole STEAL (1 STL),,
+176,42100404,253,6,2,2,9:58 PM,4:59,Brown S.FOUL (P1.T2) (E.Lewis),,,,
+177,42100404,255,3,11,2,9:59 PM,4:59,,,MISS Wiggins Free Throw 1 of 2,,
+178,42100404,256,4,1,2,9:59 PM,4:59,,,Warriors Rebound,,
+179,42100404,257,3,12,2,9:59 PM,4:59,,,Wiggins Free Throw 2 of 2 (9 PTS),40 - 39,-1
+180,42100404,258,6,1,2,9:59 PM,4:49,,,Poole P.FOUL (P3.T4) (J.Capers),,
+181,42100404,260,8,0,2,9:59 PM,4:49,,,SUB: Thompson FOR Poole,,
+182,42100404,262,2,63,2,10:00 PM,4:38,MISS Smart 21' Fadeaway Jumper,,,,
+183,42100404,263,4,0,2,10:00 PM,4:36,,,Looney REBOUND (Off:2 Def:5),,
+184,42100404,264,2,1,2,10:00 PM,4:29,,,MISS Wiggins 24' 3PT Jump Shot,,
+185,42100404,265,4,0,2,10:00 PM,4:27,,,Payton II REBOUND (Off:1 Def:0),,
+186,42100404,266,1,72,2,10:00 PM,4:25,,,Payton II 2' Putback Layup (2 PTS),42 - 39,-3
+187,42100404,267,1,6,2,10:00 PM,4:10,Brown 5' Driving Layup (12 PTS),,,42 - 41,-1
+188,42100404,268,2,79,2,10:00 PM,3:58,,,MISS Curry 31' 3PT Pullup Jump Shot,,
+189,42100404,269,4,0,2,10:01 PM,3:56,Tatum REBOUND (Off:0 Def:5),,,,
+190,42100404,270,5,1,2,10:01 PM,3:53,Tatum Bad Pass Turnover (P4.T9),,Thompson STEAL (1 STL),,
+191,42100404,272,2,1,2,10:01 PM,3:51,,,MISS Thompson 26' 3PT Jump Shot,,
+192,42100404,273,4,0,2,10:01 PM,3:49,Tatum REBOUND (Off:0 Def:6),,,,
+193,42100404,274,1,1,2,10:01 PM,3:42,Smart 3PT Jump Shot (5 PTS) (Horford 2 AST),,,42 - 44,2
+194,42100404,276,5,1,2,10:01 PM,3:27,Tatum STEAL (1 STL),,Curry Bad Pass Turnover (P2.T7),,
+195,42100404,278,6,2,2,10:01 PM,3:24,,,Wiggins S.FOUL (P2.PN) (E.Lewis),,
+196,42100404,280,3,11,2,10:02 PM,3:24,Horford Free Throw 1 of 2 (1 PTS),,,42 - 45,3
+197,42100404,281,3,12,2,10:02 PM,3:24,Horford Free Throw 2 of 2 (2 PTS),,,42 - 46,4
+198,42100404,282,2,1,2,10:02 PM,3:06,,,MISS Payton II 25' 3PT Jump Shot,,
+199,42100404,283,4,0,2,10:02 PM,3:04,Horford REBOUND (Off:0 Def:4),,,,
+200,42100404,284,1,41,2,10:02 PM,2:58,White 5' Running Layup (6 PTS),,,42 - 48,6
+201,42100404,285,6,2,2,10:03 PM,2:58,,,Thompson S.FOUL (P2.PN) (J.Capers),,
+202,42100404,287,8,0,2,10:03 PM,2:58,,,SUB: Green FOR Payton II,,
+203,42100404,289,3,10,2,10:03 PM,2:58,White Free Throw 1 of 1 (7 PTS),,,42 - 49,7
+204,42100404,290,6,1,2,10:04 PM,2:46,Brown P.FOUL (P2.T3) (K.Fitzgerald),,,,
+205,42100404,292,1,101,2,10:04 PM,2:42,,,Curry 13' Driving Floating Jump Shot (18 PTS) (Looney 2 AST),44 - 49,5
+206,42100404,294,6,2,2,10:04 PM,2:42,Brown S.FOUL (P3.T4) (J.Capers),,,,
+207,42100404,296,8,0,2,10:04 PM,2:42,SUB: Williams III FOR Brown,,,,
+208,42100404,298,3,10,2,10:05 PM,2:42,,,Curry Free Throw 1 of 1 (19 PTS),45 - 49,4
+209,42100404,299,5,1,2,10:05 PM,2:25,White Bad Pass Turnover (P3.T10),,Looney STEAL (1 STL),,
+210,42100404,301,2,1,2,10:05 PM,2:18,,,MISS Wiggins 27' 3PT Jump Shot,,
+211,42100404,302,4,0,2,10:05 PM,2:16,Tatum REBOUND (Off:0 Def:7),,,,
+212,42100404,303,2,79,2,10:05 PM,1:55,MISS White 14' Pullup Jump Shot,,,,
+213,42100404,304,4,0,2,10:05 PM,1:53,,,Wiggins REBOUND (Off:0 Def:5),,
+214,42100404,305,1,41,2,10:06 PM,1:49,,,Wiggins 4' Running Layup (11 PTS),47 - 49,2
+215,42100404,306,2,6,2,10:06 PM,1:31,MISS Tatum 3' Driving Layup,,,,
+216,42100404,307,4,0,2,10:06 PM,1:29,,,Curry REBOUND (Off:1 Def:4),,
+217,42100404,308,6,4,2,10:06 PM,1:22,,,Curry OFF.Foul (P2) (E.Lewis),,
+218,42100404,310,5,37,2,10:06 PM,1:22,,,Curry Offensive Foul Turnover (P3.T8),,
+219,42100404,311,1,1,2,10:06 PM,1:08,White 24' 3PT Jump Shot (10 PTS) (Smart 3 AST),,,47 - 52,5
+220,42100404,313,2,6,2,10:07 PM,0:54,,,MISS Curry 5' Driving Layup,,
+221,42100404,314,4,0,2,10:07 PM,0:53,,,Green REBOUND (Off:1 Def:2),,
+222,42100404,315,2,72,2,10:07 PM,0:52,,,MISS Green 2' Putback Layup,,
+223,42100404,316,4,0,2,10:07 PM,0:50,Horford REBOUND (Off:0 Def:5),,,,
+224,42100404,317,1,75,2,10:07 PM,0:34,Tatum 1' Driving Finger Roll Layup (16 PTS),,,47 - 54,7
+225,42100404,318,2,6,2,10:07 PM,0:24,Williams III BLOCK (2 BLK),,MISS Wiggins 5' Driving Layup,,
+226,42100404,320,4,0,2,10:07 PM,0:23,,,Warriors Rebound,,
+227,42100404,323,2,101,2,10:08 PM,0:13,,,MISS Wiggins 10' Driving Floating Jump Shot,,
+228,42100404,324,4,0,2,10:08 PM,0:12,,,Looney REBOUND (Off:3 Def:5),,
+229,42100404,325,1,107,2,10:08 PM,0:12,,,Looney Tip Dunk Shot (2 PTS),49 - 54,5
+230,42100404,326,2,63,2,10:08 PM,0:01,MISS Tatum 20' Fadeaway Jumper,,,,
+231,42100404,327,4,0,2,10:08 PM,0:00,CELTICS Rebound,,,,
+232,42100404,328,13,0,2,10:08 PM,0:00,,End of 2nd Period (10:08 PM EST),,49 - 54,5
+233,42100404,333,12,0,3,10:25 PM,12:00,,Start of 3rd Period (10:25 PM EST),,49 - 54,5
+234,42100404,334,1,79,3,10:25 PM,11:46,,,Curry 20' Pullup Jump Shot (21 PTS) (Green 3 AST),51 - 54,3
+235,42100404,335,5,1,3,10:25 PM,11:29,Horford Bad Pass Turnover (P1.T11),,Green STEAL (3 STL),,
+236,42100404,337,1,1,3,10:25 PM,11:22,,,Thompson 28' 3PT Jump Shot (8 PTS) (Green 4 AST),54 - 54,TIE
+237,42100404,339,2,1,3,10:26 PM,11:01,MISS Brown 27' 3PT Jump Shot,,,,
+238,42100404,340,4,0,3,10:26 PM,10:58,,,Wiggins REBOUND (Off:0 Def:6),,
+239,42100404,341,2,1,3,10:26 PM,10:50,,,MISS Thompson 26' 3PT Jump Shot,,
+240,42100404,342,4,0,3,10:26 PM,10:44,,,Thompson REBOUND (Off:1 Def:1),,
+241,42100404,343,2,1,3,10:26 PM,10:39,,,MISS Porter Jr. 25' 3PT Jump Shot,,
+242,42100404,344,4,0,3,10:26 PM,10:37,Smart REBOUND (Off:0 Def:1),,,,
+243,42100404,345,6,1,3,10:26 PM,10:27,,,Thompson P.FOUL (P3.T1) (J.Capers),,
+244,42100404,347,1,1,3,10:27 PM,10:20,Smart 28' 3PT Jump Shot (8 PTS) (Horford 3 AST),,,54 - 57,3
+245,42100404,349,5,2,3,10:27 PM,10:10,Smart STEAL (2 STL),,Green Lost Ball Turnover (P2.T9),,
+246,42100404,351,1,50,3,10:27 PM,10:06,Smart 2' Running Dunk (10 PTS),,,54 - 59,5
+247,42100404,352,2,6,3,10:27 PM,9:49,,,MISS Wiggins 4' Driving Layup,,
+248,42100404,353,4,0,3,10:27 PM,9:48,,,Green REBOUND (Off:2 Def:2),,
+249,42100404,354,1,107,3,10:27 PM,9:48,,,Green Tip Dunk Shot (2 PTS),56 - 59,3
+250,42100404,355,1,98,3,10:27 PM,9:37,Williams III 4' Cutting Layup Shot (7 PTS) (Horford 4 AST),,,56 - 61,5
+251,42100404,357,2,1,3,10:28 PM,9:16,,,MISS Green 25' 3PT Jump Shot,,
+252,42100404,358,4,0,3,10:28 PM,9:14,Williams III REBOUND (Off:4 Def:7),,,,
+253,42100404,359,2,63,3,10:28 PM,9:01,MISS Brown 14' Fadeaway Jumper,,,,
+254,42100404,360,4,0,3,10:28 PM,8:58,Brown REBOUND (Off:1 Def:1),,,,
+255,42100404,361,6,2,3,10:28 PM,8:52,,,Porter Jr. S.FOUL (P1.T2) (E.Lewis),,
+256,42100404,363,3,11,3,10:28 PM,8:52,Tatum Free Throw 1 of 2 (17 PTS),,,56 - 62,6
+257,42100404,364,3,12,3,10:29 PM,8:52,Tatum Free Throw 2 of 2 (18 PTS),,,56 - 63,7
+258,42100404,365,1,79,3,10:29 PM,8:42,,,Thompson 18' Pullup Jump Shot (10 PTS) (Porter Jr. 1 AST),58 - 63,5
+259,42100404,367,2,1,3,10:29 PM,8:22,MISS Horford 25' 3PT Jump Shot,,,,
+260,42100404,368,4,0,3,10:29 PM,8:20,,,Curry REBOUND (Off:1 Def:5),,
+261,42100404,369,2,63,3,10:30 PM,8:02,,,MISS Thompson 13' Fadeaway Jumper,,
+262,42100404,370,4,0,3,10:30 PM,8:00,Horford REBOUND (Off:0 Def:6),,,,
+263,42100404,376,2,6,3,10:30 PM,7:52,MISS Smart 6' Driving Layup,,Thompson BLOCK (1 BLK),,
+264,42100404,378,4,0,3,10:30 PM,7:51,,,Porter Jr. REBOUND (Off:0 Def:1),,
+265,42100404,373,6,2,3,10:30 PM,7:47,Tatum S.FOUL (P2.T1) (E.Lewis),,,,
+266,42100404,375,3,11,3,10:30 PM,7:47,,,Porter Jr. Free Throw 1 of 2 (1 PTS),59 - 63,4
+267,42100404,379,8,0,3,10:30 PM,7:47,SUB: White FOR Horford,,,,
+268,42100404,381,3,12,3,10:31 PM,7:47,,,Porter Jr. Free Throw 2 of 2 (2 PTS),60 - 63,3
+269,42100404,382,1,63,3,10:31 PM,7:31,Brown 16' Fadeaway Jumper (14 PTS),,,60 - 65,5
+270,42100404,383,6,2,3,10:31 PM,7:31,,,Green S.FOUL (P3.T3) (E.Lewis),,
+271,42100404,385,8,0,3,10:31 PM,7:31,,,SUB: Looney FOR Porter Jr.,,
+272,42100404,387,3,10,3,10:32 PM,7:31,Brown Free Throw 1 of 1 (15 PTS),,,60 - 66,6
+273,42100404,388,1,1,3,10:32 PM,7:15,,,Curry 25' 3PT Jump Shot (24 PTS) (Wiggins 1 AST),63 - 66,3
+274,42100404,390,5,40,3,10:32 PM,7:03,Tatum Out of Bounds Lost Ball Turnover (P5.T12),,,,
+275,42100404,391,2,1,3,10:33 PM,6:51,,,MISS Thompson 25' 3PT Jump Shot,,
+276,42100404,392,4,0,3,10:33 PM,6:48,White REBOUND (Off:0 Def:1),,,,
+277,42100404,393,2,1,3,10:33 PM,6:35,MISS Tatum 27' 3PT Jump Shot,,Thompson BLOCK (2 BLK),,
+278,42100404,395,4,0,3,10:33 PM,6:33,,,Wiggins REBOUND (Off:0 Def:7),,
+279,42100404,396,2,2,3,10:33 PM,6:31,,,MISS Thompson 24' 3PT Running Jump Shot,,
+280,42100404,397,4,0,3,10:33 PM,6:28,Smart REBOUND (Off:0 Def:2),,,,
+281,42100404,399,1,63,3,10:33 PM,6:14,Smart 8' Fadeaway Jumper (12 PTS),,,63 - 68,5
+282,42100404,400,9,1,3,10:33 PM,6:14,,,Warriors Timeout: Regular (Reg.2 Short 0),,
+283,42100404,401,8,0,3,10:36 PM,6:14,SUB: Williams FOR Tatum,,,,
+284,42100404,403,1,44,3,10:37 PM,5:59,,,Looney 3' Reverse Layup (4 PTS) (Curry 3 AST),65 - 68,3
+285,42100404,405,1,1,3,10:38 PM,5:34,White 25' 3PT Jump Shot (13 PTS) (Smart 4 AST),,,65 - 71,6
+286,42100404,407,2,101,3,10:38 PM,5:06,,,MISS Green 11' Driving Floating Jump Shot,,
+287,42100404,408,4,0,3,10:38 PM,5:04,Williams III REBOUND (Off:4 Def:8),,,,
+288,42100404,409,2,2,3,10:38 PM,4:58,MISS Brown 8' Running Jump Shot,,,,
+289,42100404,410,4,0,3,10:38 PM,4:56,,,Wiggins REBOUND (Off:0 Def:8),,
+290,42100404,411,1,58,3,10:38 PM,4:46,,,Wiggins 8' Turnaround Hook Shot (13 PTS) (Green 5 AST),67 - 71,4
+291,42100404,413,2,102,3,10:39 PM,4:29,MISS White 9' Driving Floating Bank Jump Shot,,,,
+292,42100404,414,4,0,3,10:39 PM,4:28,,,Looney REBOUND (Off:3 Def:6),,
+293,42100404,415,1,79,3,10:39 PM,4:19,,,Curry 26' 3PT Pullup Jump Shot (27 PTS),70 - 71,1
+294,42100404,416,1,79,3,10:39 PM,3:56,Smart 17' Pullup Jump Shot (14 PTS) (Brown 2 AST),,,70 - 73,3
+295,42100404,418,6,1,3,10:40 PM,3:37,Smart P.FOUL (P2.T2) (K.Fitzgerald),,,,
+296,42100404,420,8,0,3,10:40 PM,3:37,SUB: Horford FOR Brown,,,,
+297,42100404,421,8,0,3,10:40 PM,3:37,SUB: Tatum FOR Williams III,,,,
+298,42100404,422,8,0,3,10:40 PM,3:37,,,SUB: Payton II FOR Thompson,,
+299,42100404,423,8,0,3,10:40 PM,3:37,,,SUB: Porter Jr. FOR Green,,
+300,42100404,428,5,40,3,10:40 PM,3:31,,,Curry Out of Bounds Lost Ball Turnover (P4.T10),,
+301,42100404,429,2,79,3,10:41 PM,3:12,MISS White 30' 3PT Pullup Jump Shot,,,,
+302,42100404,430,4,0,3,10:41 PM,3:10,,,Payton II REBOUND (Off:1 Def:1),,
+303,42100404,431,6,28,3,10:41 PM,3:06,Williams Personal Take Foul (P4.T3) (E.Lewis),,,,
+304,42100404,433,1,79,3,10:41 PM,2:57,,,Curry 33' 3PT Pullup Jump Shot (30 PTS),73 - 73,TIE
+305,42100404,434,2,80,3,10:42 PM,2:40,MISS Smart 28' 3PT Step Back Jump Shot,,,,
+306,42100404,435,4,0,3,10:42 PM,2:38,,,Wiggins REBOUND (Off:0 Def:9),,
+307,42100404,436,6,1,3,10:42 PM,2:31,Horford P.FOUL (P1.T4) (E.Lewis),,,,
+308,42100404,438,9,1,3,10:42 PM,2:31,CELTICS Timeout: Regular (Full 4 Short 0),,,,
+309,42100404,439,8,0,3,10:45 PM,2:31,SUB: Brown FOR Williams,,,,
+310,42100404,440,8,0,3,10:45 PM,2:31,,,SUB: Poole FOR Wiggins,,
+311,42100404,441,8,0,3,10:45 PM,2:31,,,SUB: Thompson FOR Porter Jr.,,
+312,42100404,445,2,101,3,10:46 PM,2:27,,,MISS Curry 11' Driving Floating Jump Shot,,
+313,42100404,446,4,0,3,10:46 PM,2:25,,,Looney REBOUND (Off:4 Def:6),,
+314,42100404,447,2,97,3,10:46 PM,2:25,,,MISS Looney Tip Layup Shot,,
+315,42100404,448,4,0,3,10:46 PM,2:23,Tatum REBOUND (Off:0 Def:8),,,,
+316,42100404,450,2,1,3,10:46 PM,2:10,MISS Horford 25' 3PT Jump Shot,,,,
+317,42100404,451,4,0,3,10:46 PM,2:08,Smart REBOUND (Off:1 Def:2),,,,
+318,42100404,452,2,72,3,10:46 PM,2:06,MISS Smart 4' Putback Layup,,Payton II BLOCK (1 BLK),,
+319,42100404,454,4,0,3,10:46 PM,2:04,Tatum REBOUND (Off:1 Def:8),,,,
+320,42100404,455,1,72,3,10:46 PM,2:03,Tatum 2' Putback Layup (20 PTS),,,73 - 75,2
+321,42100404,456,6,1,3,10:47 PM,1:57,Brown P.FOUL (P4.PN) (K.Fitzgerald),,,,
+322,42100404,458,3,11,3,10:48 PM,1:57,,,MISS Payton II Free Throw 1 of 2,,
+323,42100404,459,4,1,3,10:48 PM,1:57,,,Warriors Rebound,,
+324,42100404,460,8,0,3,10:48 PM,1:57,SUB: Williams FOR Brown,,,,
+325,42100404,462,3,12,3,10:48 PM,1:57,,,Payton II Free Throw 2 of 2 (3 PTS),74 - 75,1
+326,42100404,463,2,80,3,10:48 PM,1:42,MISS Tatum 28' 3PT Step Back Jump Shot,,,,
+327,42100404,464,4,0,3,10:48 PM,1:40,Smart REBOUND (Off:2 Def:2),,,,
+328,42100404,465,2,102,3,10:48 PM,1:35,MISS White 10' Driving Floating Bank Jump Shot,,,,
+329,42100404,466,4,0,3,10:48 PM,1:33,,,Looney REBOUND (Off:4 Def:7),,
+330,42100404,467,1,108,3,10:48 PM,1:25,,,Payton II 1' Cutting Dunk Shot (5 PTS) (Poole 1 AST),76 - 75,-1
+331,42100404,469,1,1,3,10:49 PM,1:14,Horford 28' 3PT Jump Shot (5 PTS) (Smart 5 AST),,,76 - 78,2
+332,42100404,471,1,80,3,10:49 PM,0:58,,,Curry 3PT Step Back Jump Shot (33 PTS) (Payton II 1 AST),79 - 78,-1
+333,42100404,473,2,1,3,10:49 PM,0:43,MISS Smart 28' 3PT Jump Shot,,,,
+334,42100404,474,4,0,3,10:49 PM,0:41,,,Payton II REBOUND (Off:1 Def:2),,
+335,42100404,475,6,4,3,10:49 PM,0:35,,,Payton II OFF.Foul (P1) (K.Fitzgerald),,
+336,42100404,477,5,37,3,10:49 PM,0:35,,,Payton II Offensive Foul Turnover (P1.T11),,
+337,42100404,491,2,6,3,10:49 PM,0:31,MISS White 4' Driving Layup,,Poole BLOCK (1 BLK),,
+338,42100404,493,4,0,3,10:49 PM,0:31,CELTICS Rebound,,,,
+339,42100404,482,8,0,3,10:50 PM,0:31,,,SUB: Wiggins FOR Thompson,,
+340,42100404,484,2,63,3,10:50 PM,0:29,MISS Tatum 22' Fadeaway Jumper,,,,
+341,42100404,485,4,0,3,10:50 PM,0:25,,,Payton II REBOUND (Off:1 Def:3),,
+342,42100404,486,2,79,3,10:50 PM,0:06,,,MISS Poole 29' 3PT Pullup Jump Shot,,
+343,42100404,487,4,0,3,10:51 PM,0:02,,,Wiggins REBOUND (Off:1 Def:9),,
+344,42100404,488,2,1,3,10:51 PM,0:00,,,MISS Curry 25' 3PT Jump Shot,,
+345,42100404,489,4,0,3,10:51 PM,0:00,,,Warriors Rebound,,
+346,42100404,490,13,0,3,10:51 PM,0:00,,End of 3rd Period (10:51 PM EST),,79 - 78,-1
+347,42100404,506,12,0,4,10:54 PM,12:00,,Start of 4th Period (10:54 PM EST),,79 - 78,-1
+348,42100404,507,5,2,4,10:55 PM,11:45,Tatum Lost Ball Turnover (P6.T13),,Green STEAL (4 STL),,
+349,42100404,509,6,1,4,10:55 PM,11:43,Tatum P.FOUL (P3.T1) (J.Capers),,,,
+350,42100404,511,2,6,4,10:55 PM,11:30,,,MISS Wiggins 6' Driving Layup,,
+351,42100404,512,4,0,4,10:55 PM,11:29,,,Green REBOUND (Off:3 Def:2),,
+352,42100404,513,2,1,4,10:55 PM,11:28,,,MISS Bjelica 25' 3PT Jump Shot,,
+353,42100404,514,4,0,4,10:55 PM,11:27,Brown REBOUND (Off:1 Def:2),,,,
+354,42100404,515,1,1,4,10:56 PM,11:16,White 25' 3PT Jump Shot (16 PTS) (Tatum 4 AST),,,79 - 81,2
+355,42100404,517,1,79,4,10:56 PM,11:01,,,Poole 17' Pullup Jump Shot (12 PTS),81 - 81,TIE
+356,42100404,518,1,80,4,10:56 PM,10:46,Tatum 26' 3PT Step Back Jump Shot (23 PTS) (Williams III 3 AST),,,81 - 84,3
+357,42100404,520,5,1,4,10:56 PM,10:25,Williams III STEAL (1 STL),,Poole Bad Pass Turnover (P1.T12),,
+358,42100404,522,2,103,4,10:56 PM,10:21,MISS Pritchard 27' 3PT Running Pull-Up Jump Shot,,,,
+359,42100404,523,4,0,4,10:56 PM,10:18,Tatum REBOUND (Off:2 Def:8),,,,
+360,42100404,524,2,79,4,10:57 PM,10:10,MISS Brown 29' 3PT Pullup Jump Shot,,,,
+361,42100404,525,4,0,4,10:57 PM,10:08,,,Green REBOUND (Off:3 Def:3),,
+362,42100404,526,1,1,4,10:57 PM,10:00,,,Thompson 26' 3PT Jump Shot (13 PTS) (Green 6 AST),84 - 84,TIE
+363,42100404,528,1,86,4,10:57 PM,9:31,Brown 10' Turnaround Fadeaway (17 PTS) (White 1 AST),,,84 - 86,2
+364,42100404,529,5,45,4,10:58 PM,9:13,,,Wiggins Out of Bounds - Bad Pass Turnover Turnover (P2.T13),,
+365,42100404,530,8,0,4,10:58 PM,9:13,,,SUB: Curry FOR Thompson,,
+366,42100404,532,2,1,4,10:58 PM,8:59,MISS Brown 26' 3PT Jump Shot,,,,
+367,42100404,533,4,0,4,10:58 PM,8:57,,,Wiggins REBOUND (Off:1 Def:10),,
+368,42100404,534,1,75,4,10:58 PM,8:49,,,Poole 1' Driving Finger Roll Layup (14 PTS) (Wiggins 2 AST),86 - 86,TIE
+369,42100404,536,2,86,4,10:59 PM,8:28,MISS Tatum 13' Turnaround Fadeaway Shot,,,,
+370,42100404,537,4,0,4,10:59 PM,8:26,,,Wiggins REBOUND (Off:1 Def:11),,
+371,42100404,538,2,79,4,10:59 PM,8:19,,,MISS Poole 25' 3PT Pullup Jump Shot,,
+372,42100404,539,4,0,4,10:59 PM,8:17,Brown REBOUND (Off:1 Def:3),,,,
+373,42100404,540,5,2,4,10:59 PM,8:09,Brown Lost Ball Turnover (P1.T14),,Bjelica STEAL (1 STL),,
+374,42100404,542,2,41,4,10:59 PM,8:07,Tatum BLOCK (2 BLK),,MISS Bjelica 3' Running Layup,,
+375,42100404,544,4,0,4,10:59 PM,8:06,,,Warriors Rebound,,
+376,42100404,546,8,0,4,10:59 PM,8:06,SUB: Smart FOR Pritchard,,,,
+377,42100404,547,8,0,4,10:59 PM,8:06,,,SUB: Thompson FOR Wiggins,,
+378,42100404,550,5,1,4,11:00 PM,8:06,Smart STEAL (3 STL),,Bjelica Bad Pass Turnover (P1.T14),,
+379,42100404,552,1,6,4,11:00 PM,7:48,Brown 4' Driving Layup (19 PTS) (Williams III 4 AST),,,86 - 88,2
+380,42100404,554,5,1,4,11:00 PM,7:37,Brown STEAL (1 STL),,Curry Bad Pass Turnover (P5.T15),,
+381,42100404,556,1,41,4,11:00 PM,7:32,Brown 4' Running Layup (21 PTS),,,86 - 90,4
+382,42100404,557,6,3,4,11:01 PM,7:32,,,Poole L.B.FOUL (P4.T1) (K.Fitzgerald),,
+383,42100404,561,9,1,4,11:02 PM,7:32,,,Warriors Timeout: Regular (Reg.3 Short 0),,
+384,42100404,562,8,0,4,11:04 PM,7:32,,,SUB: Looney FOR Bjelica,,
+385,42100404,563,8,0,4,11:04 PM,7:32,,,SUB: Wiggins FOR Green,,
+386,42100404,566,3,10,4,11:05 PM,7:32,Smart Free Throw 1 of 1 (15 PTS),,,86 - 91,5
+387,42100404,567,2,6,4,11:05 PM,7:19,Tatum BLOCK (3 BLK),,MISS Curry 7' Driving Layup,,
+388,42100404,569,4,0,4,11:05 PM,7:18,,,Curry REBOUND (Off:2 Def:5),,
+389,42100404,570,2,1,4,11:05 PM,7:14,,,MISS Wiggins 26' 3PT Jump Shot,,
+390,42100404,571,4,0,4,11:05 PM,7:11,Brown REBOUND (Off:1 Def:4),,,,
+391,42100404,572,2,63,4,11:05 PM,6:46,MISS Tatum 23' Fadeaway Jumper,,,,
+392,42100404,573,4,0,4,11:05 PM,6:45,CELTICS Rebound,,,,
+393,42100404,574,5,11,4,11:05 PM,6:45,CELTICS Turnover: Shot Clock (T#15),,,,
+394,42100404,575,1,86,4,11:06 PM,6:29,,,Thompson 12' Turnaround Fadeaway (15 PTS),88 - 91,3
+395,42100404,576,2,98,4,11:06 PM,6:09,MISS Tatum 6' Cutting Layup Shot,,,,
+396,42100404,577,4,0,4,11:06 PM,6:08,,,Poole REBOUND (Off:0 Def:1),,
+397,42100404,578,2,2,4,11:06 PM,6:02,,,MISS Wiggins 5' Running Jump Shot,,
+398,42100404,579,4,0,4,11:06 PM,6:00,,,Wiggins REBOUND (Off:2 Def:11),,
+399,42100404,580,1,72,4,11:06 PM,5:58,,,Wiggins Putback Layup (15 PTS),90 - 91,1
+400,42100404,581,6,1,4,11:07 PM,5:36,,,Curry P.FOUL (P3.T2) (J.Capers),,
+401,42100404,583,6,1,4,11:07 PM,5:33,,,Thompson P.FOUL (P4.T3) (E.Lewis),,
+402,42100404,585,2,98,4,11:08 PM,5:23,MISS Smart 6' Cutting Layup Shot,,Looney BLOCK (1 BLK),,
+403,42100404,587,4,0,4,11:08 PM,5:21,Tatum REBOUND (Off:3 Def:8),,,,
+404,42100404,588,1,1,4,11:08 PM,5:18,Smart 28' 3PT Jump Shot (18 PTS) (Tatum 5 AST),,,90 - 94,4
+405,42100404,590,2,6,4,11:08 PM,4:57,,,MISS Poole 6' Driving Layup,,
+406,42100404,591,4,0,4,11:08 PM,4:56,,,Wiggins REBOUND (Off:3 Def:11),,
+407,42100404,592,1,72,4,11:08 PM,4:55,,,Wiggins 1' Putback Layup (17 PTS),92 - 94,2
+408,42100404,593,2,79,4,11:09 PM,4:36,MISS Brown 13' Pullup Jump Shot,,,,
+409,42100404,594,4,0,4,11:09 PM,4:35,,,Curry REBOUND (Off:2 Def:6),,
+410,42100404,595,1,1,4,11:09 PM,4:26,,,Thompson 26' 3PT Jump Shot (18 PTS) (Curry 4 AST),95 - 94,-1
+411,42100404,598,2,1,4,11:09 PM,4:12,MISS Brown 26' 3PT Jump Shot,,,,
+412,42100404,599,4,0,4,11:09 PM,4:10,,,Curry REBOUND (Off:2 Def:7),,
+413,42100404,600,1,101,4,11:10 PM,3:49,,,Curry 12' Driving Floating Jump Shot (35 PTS),97 - 94,-3
+414,42100404,601,9,1,4,11:10 PM,3:41,CELTICS Timeout: Regular (Full 5 Short 0),,,,
+415,42100404,602,8,0,4,11:13 PM,3:41,SUB: Horford FOR Williams III,,,,
+416,42100404,603,8,0,4,11:13 PM,3:41,,,SUB: Green FOR Poole,,
+417,42100404,606,2,1,4,11:14 PM,3:28,MISS Tatum 28' 3PT Jump Shot,,,,
+418,42100404,607,4,0,4,11:14 PM,3:27,,,Green REBOUND (Off:3 Def:4),,
+419,42100404,608,9,1,4,11:14 PM,3:21,,,Warriors Timeout: Regular (Reg.4 Short 0),,
+420,42100404,609,8,0,4,11:15 PM,3:21,,,SUB: Poole FOR Green,,
+421,42100404,611,2,80,4,11:16 PM,3:07,,,MISS Curry 16' Step Back Jump Shot,,
+422,42100404,612,4,0,4,11:16 PM,3:05,CELTICS Rebound,,,,
+423,42100404,613,6,3,4,11:16 PM,3:05,,,Looney L.B.FOUL (P3.T4) (E.Lewis),,
+424,42100404,615,8,0,4,11:16 PM,3:05,,,SUB: Green FOR Poole,,
+425,42100404,617,2,1,4,11:17 PM,2:45,MISS Smart 25' 3PT Jump Shot,,,,
+426,42100404,618,4,0,4,11:17 PM,2:44,Brown REBOUND (Off:2 Def:4),,,,
+427,42100404,619,2,1,4,11:17 PM,2:36,MISS Smart 27' 3PT Jump Shot,,,,
+428,42100404,620,4,0,4,11:17 PM,2:34,,,Wiggins REBOUND (Off:3 Def:12),,
+429,42100404,621,10,0,4,11:18 PM,2:08,Jump Ball Smart vs. Looney: Tip to Horford,,,,
+430,42100404,624,5,2,4,11:18 PM,2:08,Smart STEAL (4 STL),,Looney Lost Ball Turnover (P3.T16),,
+431,42100404,626,2,1,4,11:18 PM,1:55,MISS Horford 27' 3PT Jump Shot,,,,
+432,42100404,627,4,0,4,11:18 PM,1:53,,,Curry REBOUND (Off:2 Def:8),,
+433,42100404,628,1,1,4,11:18 PM,1:42,,,Curry 26' 3PT Jump Shot (38 PTS) (Green 7 AST),100 - 94,-6
+434,42100404,630,9,1,4,11:18 PM,1:42,CELTICS Timeout: Regular (Full 6 Short 0),,,,
+435,42100404,631,1,1,4,11:20 PM,1:32,Horford 25' 3PT Jump Shot (8 PTS) (Tatum 6 AST),,,100 - 97,-3
+436,42100404,633,2,1,4,11:21 PM,1:16,,,MISS Thompson 26' 3PT Jump Shot,,
+437,42100404,634,4,0,4,11:21 PM,1:14,,,Green REBOUND (Off:4 Def:4),,
+438,42100404,635,1,5,4,11:21 PM,1:04,,,Looney 2' Layup (6 PTS) (Green 8 AST),102 - 97,-5
+439,42100404,637,5,40,4,11:21 PM,0:56,Brown Out of Bounds Lost Ball Turnover (P2.T16),,,,
+440,42100404,638,8,0,4,11:21 PM,0:56,,,SUB: Poole FOR Green,,
+441,42100404,640,6,2,4,11:22 PM,0:47,Horford S.FOUL (P2.T2) (J.Capers),,,,
+442,42100404,642,9,1,4,11:22 PM,0:47,CELTICS Timeout: Regular (Full 7 Short 0),,,,
+443,42100404,643,18,4,4,11:22 PM,0:47,,Instant Replay4th Period (11:22 PM EST),,102 - 97,-5
+444,42100404,644,8,0,4,11:24 PM,0:47,,,SUB: Green FOR Poole,,
+445,42100404,646,3,11,4,11:24 PM,0:47,,,Curry Free Throw 1 of 2 (39 PTS),103 - 97,-6
+446,42100404,647,3,12,4,11:24 PM,0:47,,,Curry Free Throw 2 of 2 (40 PTS),104 - 97,-7
+447,42100404,648,2,1,4,11:25 PM,0:39,MISS White 24' 3PT Jump Shot,,,,
+448,42100404,649,4,0,4,11:25 PM,0:37,,,Wiggins REBOUND (Off:3 Def:13),,
+449,42100404,650,9,1,4,11:25 PM,0:25,,,Warriors Timeout: Regular (Reg.5 Short 0),,
+450,42100404,651,8,0,4,11:26 PM,0:25,,,SUB: Poole FOR Looney,,
+451,42100404,653,6,1,4,11:27 PM,0:19,Horford P.FOUL (P3.PN) (J.Capers),,,,
+452,42100404,655,3,11,4,11:27 PM,0:19,,,Curry Free Throw 1 of 2 (41 PTS),105 - 97,-8
+453,42100404,658,3,12,4,11:27 PM,0:19,,,MISS Curry Free Throw 2 of 2,,
+454,42100404,656,8,0,4,11:27 PM,0:19,,,SUB: Looney FOR Poole,,
+455,42100404,659,4,0,4,11:27 PM,0:16,,,Green REBOUND (Off:5 Def:4),,
+456,42100404,660,6,1,4,11:28 PM,0:09,Brown P.FOUL (P5.PN) (E.Lewis),,,,
+457,42100404,663,3,11,4,11:29 PM,0:09,,,Curry Free Throw 1 of 2 (42 PTS),106 - 97,-9
+458,42100404,664,3,12,4,11:29 PM,0:09,,,Curry Free Throw 2 of 2 (43 PTS),107 - 97,-10
+459,42100404,665,13,0,4,11:29 PM,0:00,,End of 4th Period (11:29 PM EST),,107 - 97,-10

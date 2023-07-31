@@ -1,0 +1,13 @@
+name: nba_spacing_analysis
+title: nba_spacing_analysis
+username:
+account: sobeirne
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9464622
+bundleId: 7512063
+url: https://sobeirne.shinyapps.io/nba_spacing_analysis/
+when: 1690738060.28556
+lastSyncTime: 1690738060.28559
+asMultiple: FALSE
+asStatic: FALSE

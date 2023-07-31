@@ -1,0 +1,440 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0,42100311,2,12,0,1,9:04 PM,12:00,,Start of 1st Period (9:04 PM EST),,,
+1,42100311,4,10,0,1,9:04 PM,12:00,Jump Ball Looney vs. Powell: Tip to Doncic,DAL,,,
+2,42100311,7,2,1,1,9:04 PM,11:37,,,MISS Brunson 24' 3PT Jump Shot,,
+3,42100311,8,4,0,1,9:04 PM,11:34,Looney REBOUND (Off:0 Def:1),,,,
+4,42100311,9,1,79,1,9:04 PM,11:22,Wiggins 28' 3PT Pullup Jump Shot (3 PTS) (Curry 1 AST),,,0 - 3,3
+5,42100311,11,1,80,1,9:05 PM,11:01,,,Brunson 14' Step Back Jump Shot (2 PTS), 2 - 3,1
+6,42100311,12,1,108,1,9:05 PM,10:44,Looney 3' Cutting Dunk Shot (2 PTS) (Curry 2 AST),,, 2 - 5,3
+7,42100311,14,2,1,1,9:05 PM,10:29,,,MISS Doncic 29' 3PT Jump Shot,,
+8,42100311,15,4,0,1,9:05 PM,10:26,,,Powell REBOUND (Off:1 Def:0),,
+9,42100311,17,1,1,1,9:06 PM,10:24,,,Finney-Smith 3PT Jump Shot (3 PTS) (Doncic 1 AST), 5 - 5,TIE
+10,42100311,19,2,79,1,9:06 PM,10:10,MISS Curry 26' 3PT Pullup Jump Shot,,,,
+11,42100311,20,4,0,1,9:06 PM,10:07,,,Doncic REBOUND (Off:0 Def:1),,
+12,42100311,21,1,101,1,9:06 PM,10:00,,,Doncic 7' Driving Floating Jump Shot (2 PTS), 7 - 5,-2
+13,42100311,22,2,1,1,9:06 PM,9:51,MISS Thompson 24' 3PT Jump Shot,,,,
+14,42100311,23,4,0,1,9:06 PM,9:48,Looney REBOUND (Off:1 Def:1),,,,
+15,42100311,24,1,78,1,9:06 PM,9:42,Green 13' Floating Jump Shot (2 PTS) (Thompson 1 AST),,, 7 - 7,TIE
+16,42100311,26,2,86,1,9:07 PM,9:20,,,MISS Doncic 15' Turnaround Fadeaway Shot,,
+17,42100311,27,4,0,1,9:07 PM,9:17,Curry REBOUND (Off:0 Def:1),,,,
+18,42100311,28,2,101,1,9:07 PM,9:01,MISS Wiggins 8' Driving Floating Jump Shot,,,,
+19,42100311,29,4,0,1,9:07 PM,8:59,Looney REBOUND (Off:2 Def:1),,,,
+20,42100311,30,1,97,1,9:07 PM,8:56,Looney Tip Layup Shot (4 PTS),,, 7 - 9,2
+21,42100311,31,5,39,1,9:07 PM,8:49,,,Brunson Step Out of Bounds Turnover (P1.T1),,
+22,42100311,32,6,2,1,9:07 PM,8:41,,,Powell S.FOUL (P1.T1) (J.Capers),,
+23,42100311,34,3,11,1,9:08 PM,8:41,MISS Curry Free Throw 1 of 2,,,,
+24,42100311,35,4,1,1,9:08 PM,8:41,WARRIORS Rebound,,,,
+25,42100311,36,3,12,1,9:08 PM,8:41,MISS Curry Free Throw 2 of 2,,,,
+26,42100311,37,4,0,1,9:08 PM,8:39,Curry REBOUND (Off:1 Def:1),,,,
+27,42100311,38,1,1,1,9:08 PM,8:37,Curry 18' Jump Shot (2 PTS),,, 7 - 11,4
+28,42100311,39,2,80,1,9:09 PM,8:19,,,MISS Doncic 25' 3PT Step Back Jump Shot,,
+29,42100311,40,4,0,1,9:09 PM,8:16,,,Finney-Smith REBOUND (Off:1 Def:0),,
+30,42100311,41,2,101,1,9:09 PM,8:14,,,MISS Finney-Smith 7' Driving Floating Jump Shot,,
+31,42100311,42,4,0,1,9:09 PM,8:11,Green REBOUND (Off:0 Def:1),,,,
+32,42100311,43,2,2,1,9:09 PM,8:10,MISS Curry 27' 3PT Running Jump Shot,,,,
+33,42100311,44,4,0,1,9:09 PM,8:08,,,Doncic REBOUND (Off:0 Def:2),,
+34,42100311,45,2,1,1,9:09 PM,7:59,,,MISS Bullock 25' 3PT Jump Shot,,
+35,42100311,46,4,0,1,9:09 PM,7:57,,,Mavericks Rebound,,
+36,42100311,48,8,0,1,9:09 PM,7:57,,,SUB: Kleber FOR Powell,,
+37,42100311,50,1,6,1,9:09 PM,7:49,,,Doncic 5' Driving Layup (4 PTS), 9 - 11,2
+38,42100311,51,6,2,1,9:09 PM,7:49,Wiggins S.FOUL (P1.T1) (J.Capers),,,,
+39,42100311,53,3,10,1,9:10 PM,7:49,,,Doncic Free Throw 1 of 1 (5 PTS), 10 - 11,1
+40,42100311,54,5,4,1,9:10 PM,7:31,Wiggins Traveling Turnover (P1.T1),,,,
+41,42100311,55,1,80,1,9:11 PM,7:23,,,Doncic 27' 3PT Step Back Jump Shot (8 PTS),13 - 11,-2
+42,42100311,56,1,1,1,9:11 PM,7:09,Wiggins 27' 3PT Jump Shot (6 PTS) (Green 1 AST),,,13 - 14,1
+43,42100311,58,2,1,1,9:11 PM,6:46,,,MISS Kleber 24' 3PT Jump Shot,,
+44,42100311,59,4,0,1,9:11 PM,6:43,Thompson REBOUND (Off:0 Def:1),,,,
+45,42100311,60,1,43,1,9:11 PM,6:37,Looney 5' Alley Oop Layup (6 PTS) (Thompson 2 AST),,,13 - 16,3
+46,42100311,62,2,1,1,9:12 PM,6:17,,,MISS Brunson 26' 3PT Jump Shot,,
+47,42100311,63,4,0,1,9:12 PM,6:14,Green REBOUND (Off:0 Def:2),,,,
+48,42100311,64,6,2,1,9:12 PM,6:12,,,Kleber S.FOUL (P1.T2) (M.Lindsay),,
+49,42100311,66,9,1,1,9:12 PM,6:12,WARRIORS Timeout: Regular (Full 1 Short 0),,,,
+50,42100311,68,8,0,1,9:15 PM,6:12,SUB: Poole FOR Looney,,,,
+51,42100311,69,8,0,1,9:15 PM,6:12,SUB: Porter Jr. FOR Thompson,,,,
+52,42100311,72,3,11,1,9:16 PM,6:12,MISS Wiggins Free Throw 1 of 2,,,,
+53,42100311,73,4,1,1,9:16 PM,6:12,WARRIORS Rebound,,,,
+54,42100311,74,3,12,1,9:16 PM,6:12,MISS Wiggins Free Throw 2 of 2,,,,
+55,42100311,75,4,0,1,9:16 PM,6:10,,,Finney-Smith REBOUND (Off:1 Def:1),,
+56,42100311,76,2,1,1,9:16 PM,5:56,,,MISS Bullock 24' 3PT Jump Shot,,
+57,42100311,77,4,0,1,9:16 PM,5:53,,,Kleber REBOUND (Off:1 Def:0),,
+58,42100311,78,2,1,1,9:16 PM,5:52,,,MISS Bullock 27' 3PT Jump Shot,,
+59,42100311,79,4,0,1,9:16 PM,5:50,,,Finney-Smith REBOUND (Off:2 Def:1),,
+60,42100311,80,2,1,1,9:16 PM,5:46,,,MISS Brunson 26' 3PT Jump Shot,,
+61,42100311,81,4,0,1,9:17 PM,5:43,Wiggins REBOUND (Off:0 Def:1),,,,
+62,42100311,82,2,80,1,9:17 PM,5:38,MISS Curry 28' 3PT Step Back Jump Shot,,,,
+63,42100311,83,4,0,1,9:17 PM,5:36,,,Mavericks Rebound,,
+64,42100311,84,6,3,1,9:17 PM,5:36,Green L.B.FOUL (P1.T2) (J.Capers),,,,
+65,42100311,86,2,1,1,9:17 PM,5:16,,,MISS Kleber 27' 3PT Jump Shot,,
+66,42100311,87,4,0,1,9:17 PM,5:14,Porter Jr. REBOUND (Off:0 Def:1),,,,
+67,42100311,88,1,80,1,9:18 PM,5:00,Poole 19' Step Back Jump Shot (2 PTS),,,13 - 18,5
+68,42100311,89,1,1,1,9:18 PM,4:41,,,Bullock 28' 3PT Jump Shot (3 PTS) (Brunson 1 AST),16 - 18,2
+69,42100311,91,2,1,1,9:18 PM,4:29,MISS Green 24' 3PT Jump Shot,,,,
+70,42100311,92,4,0,1,9:18 PM,4:26,,,Doncic REBOUND (Off:0 Def:3),,
+71,42100311,93,5,2,1,9:18 PM,4:17,Green STEAL (1 STL),,Doncic Lost Ball Turnover (P1.T2),,
+72,42100311,95,6,28,1,9:18 PM,4:17,,,Kleber Personal Take Foul (P2.T3) (J.Capers),,
+73,42100311,97,8,0,1,9:18 PM,4:17,,,SUB: Dinwiddie FOR Brunson,,
+74,42100311,99,1,79,1,9:19 PM,3:57,Porter Jr. 15' Pullup Jump Shot (2 PTS) (Curry 3 AST),,,16 - 20,4
+75,42100311,101,2,1,1,9:19 PM,3:35,,,MISS Doncic 24' 3PT Jump Shot,,
+76,42100311,102,4,0,1,9:19 PM,3:32,Curry REBOUND (Off:1 Def:2),,,,
+77,42100311,103,6,1,1,9:20 PM,3:29,,,Bullock P.FOUL (P1.T4) (M.Lindsay),,
+78,42100311,105,8,0,1,9:20 PM,3:29,,,SUB: Bertans FOR Kleber,,
+79,42100311,107,1,79,1,9:20 PM,3:23,Wiggins 20' Pullup Jump Shot (8 PTS) (Porter Jr. 1 AST),,,16 - 22,6
+80,42100311,109,2,1,1,9:20 PM,2:58,,,MISS Bullock 26' 3PT Jump Shot,,
+81,42100311,110,4,0,1,9:20 PM,2:56,Porter Jr. REBOUND (Off:0 Def:2),,,,
+82,42100311,111,5,4,1,9:21 PM,2:48,Poole Traveling Turnover (P1.T2),,,,
+83,42100311,112,9,1,1,9:21 PM,2:48,,,Mavericks Timeout: Regular (Reg.1 Short 0),,
+84,42100311,113,1,47,1,9:25 PM,2:30,,,Dinwiddie 9' Turnaround Jump Shot (2 PTS),18 - 22,4
+85,42100311,114,1,101,1,9:25 PM,2:07,Wiggins 12' Driving Floating Jump Shot (10 PTS),,,18 - 24,6
+86,42100311,115,2,79,1,9:25 PM,1:51,,,MISS Dinwiddie 28' 3PT Pullup Jump Shot,,
+87,42100311,116,4,0,1,9:25 PM,1:49,Wiggins REBOUND (Off:0 Def:2),,,,
+88,42100311,117,1,73,1,9:26 PM,1:29,Poole 4' Driving Reverse Layup (4 PTS),,,18 - 26,8
+89,42100311,118,2,1,1,9:26 PM,1:08,,,MISS Finney-Smith 30' 3PT Jump Shot,,
+90,42100311,119,4,0,1,9:26 PM,1:04,Green REBOUND (Off:0 Def:3),,,,
+91,42100311,120,6,2,1,9:26 PM,1:00,,,Bertans S.FOUL (P1.PN) (J.Capers),,
+92,42100311,122,3,13,1,9:27 PM,1:00,Curry Free Throw 1 of 3 (3 PTS),,,18 - 27,9
+93,42100311,123,3,14,1,9:27 PM,1:00,MISS Curry Free Throw 2 of 3,,,,
+94,42100311,124,4,1,1,9:27 PM,1:00,WARRIORS Rebound,,,,
+95,42100311,125,8,0,1,9:27 PM,1:00,SUB: Thompson FOR Wiggins,,,,
+96,42100311,126,8,0,1,9:27 PM,1:00,SUB: Looney FOR Green,,,,
+97,42100311,127,8,0,1,9:27 PM,1:00,,,SUB: Ntilikina FOR Bullock,,
+98,42100311,131,3,15,1,9:28 PM,1:00,Curry Free Throw 3 of 3 (4 PTS),,,18 - 28,10
+99,42100311,133,2,101,1,9:28 PM,0:42,Looney BLOCK (1 BLK),,MISS Doncic 5' Driving Floating Jump Shot,,
+100,42100311,135,4,0,1,9:28 PM,0:40,Curry REBOUND (Off:1 Def:3),,,,
+101,42100311,136,2,80,1,9:28 PM,0:31,MISS Curry 29' 3PT Step Back Jump Shot,,,,
+102,42100311,137,4,0,1,9:28 PM,0:29,,,Doncic REBOUND (Off:0 Def:4),,
+103,42100311,138,6,28,1,9:29 PM,0:27,Looney Personal Take Foul (P1.T3) (M.Lindsay),,,,
+104,42100311,140,8,0,1,9:29 PM,0:27,SUB: Green FOR Poole,,,,
+105,42100311,142,2,1,1,9:29 PM,0:05,Green BLOCK (1 BLK),,MISS Finney-Smith 3PT Jump Shot,,
+106,42100311,144,4,0,1,9:29 PM,0:04,,,Mavericks Rebound,,
+107,42100311,146,2,63,1,9:30 PM,0:02,,,MISS Bertans 26' 3PT Fadeaway Jumper,,
+108,42100311,147,4,0,1,9:30 PM,0:01,Curry REBOUND (Off:1 Def:4),,,,
+109,42100311,148,13,0,1,9:30 PM,0:00,,End of 1st Period (9:30 PM EST),,18 - 28,10
+110,42100311,157,12,0,2,9:33 PM,12:00,,Start of 2nd Period (9:33 PM EST),,18 - 28,10
+111,42100311,158,6,4,2,9:34 PM,11:40,Looney OFF.Foul (P2) (C.Kirkland),,,,
+112,42100311,160,5,37,2,9:34 PM,11:40,Looney Offensive Foul Turnover (P1.T3),,,,
+113,42100311,161,2,6,2,9:34 PM,11:27,,,MISS Dinwiddie 6' Driving Layup,,
+114,42100311,162,4,0,2,9:34 PM,11:25,Looney REBOUND (Off:2 Def:2),,,,
+115,42100311,163,1,80,2,9:35 PM,11:04,Porter Jr. 14' Step Back Jump Shot (4 PTS),,,18 - 30,12
+116,42100311,164,1,79,2,9:35 PM,10:43,,,Brunson 9' Pullup Jump Shot (4 PTS),20 - 30,10
+117,42100311,165,2,1,2,9:35 PM,10:33,MISS Thompson 27' 3PT Jump Shot,,,,
+118,42100311,166,4,0,2,9:35 PM,10:31,,,Brunson REBOUND (Off:0 Def:1),,
+119,42100311,167,6,1,2,9:35 PM,10:27,Lee P.FOUL (P1.T1) (M.Lindsay),,,,
+120,42100311,169,2,101,2,9:36 PM,10:14,,,MISS Brunson 12' Driving Floating Jump Shot,,
+121,42100311,170,4,0,2,9:36 PM,10:11,,,Powell REBOUND (Off:2 Def:0),,
+122,42100311,171,2,1,2,9:36 PM,10:10,,,MISS Bertans 26' 3PT Jump Shot,,
+123,42100311,172,4,0,2,9:36 PM,10:08,Thompson REBOUND (Off:0 Def:2),,,,
+124,42100311,173,5,40,2,9:36 PM,9:58,Thompson Out of Bounds Lost Ball Turnover (P1.T4),,,,
+125,42100311,174,8,0,2,9:36 PM,9:58,,,SUB: Bullock FOR Bertans,,
+126,42100311,176,6,2,2,9:37 PM,9:50,Porter Jr. S.FOUL (P1.T2) (C.Kirkland),,,,
+127,42100311,178,3,11,2,9:37 PM,9:50,,,Dinwiddie Free Throw 1 of 2 (3 PTS),21 - 30,9
+128,42100311,179,3,12,2,9:37 PM,9:50,,,Dinwiddie Free Throw 2 of 2 (4 PTS),22 - 30,8
+129,42100311,180,1,73,2,9:37 PM,9:40,Poole 5' Driving Reverse Layup (6 PTS),,,22 - 32,10
+130,42100311,181,2,1,2,9:38 PM,9:27,,,MISS Ntilikina 25' 3PT Jump Shot,,
+131,42100311,182,4,0,2,9:38 PM,9:25,Lee REBOUND (Off:0 Def:1),,,,
+132,42100311,183,2,79,2,9:38 PM,9:14,MISS Poole 21' Pullup Jump Shot,,,,
+133,42100311,184,4,0,2,9:38 PM,9:11,,,Bullock REBOUND (Off:0 Def:1),,
+134,42100311,217,5,2,2,9:38 PM,9:00,Poole STEAL (1 STL),,Dinwiddie Lost Ball Turnover (P1.T3),,
+135,42100311,190,8,0,2,9:38 PM,8:50,,,SUB: Kleber FOR Powell,,
+136,42100311,192,1,79,2,9:39 PM,8:37,Looney 21' Pullup Jump Shot (8 PTS) (Poole 1 AST),,,22 - 34,12
+137,42100311,194,1,6,2,9:39 PM,8:19,,,Brunson 3' Driving Layup (6 PTS),24 - 34,10
+138,42100311,195,2,1,2,9:39 PM,8:07,MISS Porter Jr. 27' 3PT Jump Shot,,,,
+139,42100311,196,4,0,2,9:39 PM,8:05,,,Bullock REBOUND (Off:0 Def:2),,
+140,42100311,197,1,41,2,9:39 PM,8:00,,,Bullock 3' Running Layup (5 PTS),26 - 34,8
+141,42100311,198,9,1,2,9:39 PM,8:00,WARRIORS Timeout: Regular (Full 2 Short 0),,,,
+142,42100311,199,8,0,2,9:43 PM,8:00,SUB: Wiggins FOR Looney,,,,
+143,42100311,200,8,0,2,9:43 PM,8:00,SUB: Green FOR Porter Jr.,,,,
+144,42100311,203,2,6,2,9:43 PM,7:45,MISS Thompson 6' Driving Layup,,,,
+145,42100311,204,4,0,2,9:43 PM,7:45,Green REBOUND (Off:1 Def:3),,,,
+146,42100311,205,6,2,2,9:43 PM,7:45,,,Bullock S.FOUL (P2.T1) (C.Kirkland),,
+147,42100311,207,3,11,2,9:44 PM,7:45,Green Free Throw 1 of 2 (3 PTS),,,26 - 35,9
+148,42100311,208,3,12,2,9:44 PM,7:45,MISS Green Free Throw 2 of 2,,,,
+149,42100311,209,4,0,2,9:44 PM,7:43,,,Ntilikina REBOUND (Off:0 Def:1),,
+150,42100311,210,2,6,2,9:44 PM,7:30,Thompson BLOCK (1 BLK),,MISS Brunson 5' Driving Layup,,
+151,42100311,211,4,0,2,9:44 PM,7:27,Lee REBOUND (Off:0 Def:2),,,,
+152,42100311,212,2,1,2,9:44 PM,7:21,MISS Wiggins 26' 3PT Jump Shot,,,,
+153,42100311,213,4,0,2,9:44 PM,7:19,,,Bullock REBOUND (Off:0 Def:3),,
+154,42100311,214,1,1,2,9:45 PM,6:59,,,Dinwiddie 3PT Jump Shot (7 PTS) (Bullock 1 AST),29 - 35,6
+155,42100311,216,7,5,2,9:45 PM,6:44,,,Kleber Violation:Kicked Ball (J.Capers),,
+156,42100311,219,8,0,2,9:45 PM,6:44,SUB: Curry FOR Lee,,,,
+157,42100311,220,8,0,2,9:45 PM,6:44,,,SUB: Doncic FOR Ntilikina,,
+158,42100311,221,8,0,2,9:45 PM,6:44,,,SUB: Finney-Smith FOR Dinwiddie,,
+159,42100311,225,2,79,2,9:45 PM,6:32,MISS Thompson 28' 3PT Pullup Jump Shot,,,,
+160,42100311,226,4,0,2,9:46 PM,6:30,,,Kleber REBOUND (Off:1 Def:1),,
+161,42100311,227,6,2,2,9:46 PM,6:18,Poole S.FOUL (P1.T3) (C.Kirkland),,,,
+162,42100311,229,3,11,2,9:46 PM,6:18,,,Brunson Free Throw 1 of 2 (7 PTS),30 - 35,5
+163,42100311,230,3,12,2,9:47 PM,6:18,,,MISS Brunson Free Throw 2 of 2,,
+164,42100311,231,4,0,2,9:47 PM,6:16,Thompson REBOUND (Off:0 Def:3),,,,
+165,42100311,232,5,2,2,9:47 PM,6:06,Thompson Lost Ball Turnover (P2.T5),,Doncic STEAL (1 STL),,
+166,42100311,234,1,1,2,9:47 PM,5:56,,,Bullock 26' 3PT Jump Shot (8 PTS) (Doncic 2 AST),33 - 35,2
+167,42100311,236,1,5,2,9:47 PM,5:37,Green 6' Layup (5 PTS) (Poole 2 AST),,,33 - 37,4
+168,42100311,238,6,2,2,9:47 PM,5:37,,,Kleber S.FOUL (P3.T2) (C.Kirkland),,
+169,42100311,240,8,0,2,9:48 PM,5:37,SUB: Looney FOR Poole,,,,
+170,42100311,244,8,0,2,9:48 PM,5:37,,,SUB: Dinwiddie FOR Kleber,,
+171,42100311,245,3,10,2,9:48 PM,5:37,Green Free Throw 1 of 1 (6 PTS),,,33 - 38,5
+172,42100311,246,2,80,2,9:48 PM,5:24,,,MISS Brunson 26' 3PT Step Back Jump Shot,,
+173,42100311,247,4,0,2,9:48 PM,5:22,Curry REBOUND (Off:1 Def:5),,,,
+174,42100311,248,2,80,2,9:48 PM,5:12,MISS Curry 20' Step Back Jump Shot,,,,
+175,42100311,249,4,0,2,9:49 PM,5:09,,,Mavericks Rebound,,
+176,42100311,251,6,17,2,9:49 PM,4:51,WARRIORS T.Foul (Def. 3 Sec Looney ) (C.Kirkland),,,,
+177,42100311,252,3,16,2,9:49 PM,4:51,,,Bullock Free Throw Technical (9 PTS),34 - 38,4
+178,42100311,253,2,1,2,9:50 PM,4:39,,,MISS Bullock 26' 3PT Jump Shot,,
+179,42100311,254,4,0,2,9:50 PM,4:37,Green REBOUND (Off:1 Def:4),,,,
+180,42100311,255,2,1,2,9:50 PM,4:31,MISS Curry 27' 3PT Jump Shot,,,,
+181,42100311,256,4,0,2,9:50 PM,4:29,,,Brunson REBOUND (Off:0 Def:2),,
+182,42100311,257,6,2,2,9:50 PM,4:25,Green S.FOUL (P2.T4) (C.Kirkland),,,,
+183,42100311,259,3,11,2,9:50 PM,4:25,,,Doncic Free Throw 1 of 2 (9 PTS),35 - 38,3
+184,42100311,260,3,12,2,9:51 PM,4:25,,,MISS Doncic Free Throw 2 of 2,,
+185,42100311,261,4,0,2,9:51 PM,4:23,Green REBOUND (Off:1 Def:5),,,,
+186,42100311,262,1,47,2,9:51 PM,4:05,Wiggins 8' Turnaround Jump Shot (12 PTS),,,35 - 40,5
+187,42100311,263,2,1,2,9:52 PM,3:43,Thompson BLOCK (2 BLK),,MISS Dinwiddie 3PT Jump Shot,,
+188,42100311,265,4,0,2,9:52 PM,3:42,,,Mavericks Rebound,,
+189,42100311,267,6,11,2,9:52 PM,3:42,,,Dinwiddie T.FOUL (P0.T2) (J.Capers),,
+190,42100311,268,3,16,2,9:52 PM,3:42,Curry Free Throw Technical (5 PTS),,,35 - 41,6
+191,42100311,269,2,73,2,9:52 PM,3:39,Curry BLOCK (1 BLK),,MISS Brunson 7' Driving Reverse Layup,,
+192,42100311,270,4,0,2,9:53 PM,3:36,Curry REBOUND (Off:1 Def:6),,,,
+193,42100311,271,1,41,2,9:53 PM,3:34,Curry 7' Running Layup (7 PTS),,,35 - 43,8
+194,42100311,272,6,2,2,9:53 PM,3:22,Green S.FOUL (P3.PN) (J.Capers),,,,
+195,42100311,274,3,11,2,9:53 PM,3:22,,,Doncic Free Throw 1 of 2 (10 PTS),36 - 43,7
+196,42100311,275,8,0,2,9:53 PM,3:22,SUB: Poole FOR Green,,,,
+197,42100311,277,3,12,2,9:54 PM,3:22,,,Doncic Free Throw 2 of 2 (11 PTS),37 - 43,6
+198,42100311,278,1,1,2,9:54 PM,3:05,Poole 27' 3PT Jump Shot (9 PTS) (Wiggins 1 AST),,,37 - 46,9
+199,42100311,280,2,80,2,9:54 PM,2:46,,,MISS Doncic 28' 3PT Step Back Jump Shot,,
+200,42100311,281,4,0,2,9:54 PM,2:44,Curry REBOUND (Off:1 Def:7),,,,
+201,42100311,282,1,1,2,9:55 PM,2:26,Wiggins 27' 3PT Jump Shot (15 PTS) (Curry 4 AST),,,37 - 49,12
+202,42100311,284,9,1,2,9:55 PM,2:24,,,Mavericks Timeout: Regular (Reg.2 Short 0),,
+203,42100311,286,8,0,2,9:56 PM,2:24,,,SUB: Powell FOR Dinwiddie,,
+204,42100311,288,1,80,2,9:59 PM,2:11,,,Doncic 27' 3PT Step Back Jump Shot (14 PTS) (Brunson 2 AST),40 - 49,9
+205,42100311,289,1,75,2,9:59 PM,1:45,Curry 6' Driving Finger Roll Layup (9 PTS),,,40 - 51,11
+206,42100311,290,1,1,2,9:59 PM,1:33,,,Doncic 27' 3PT Jump Shot (17 PTS) (Bullock 2 AST),43 - 51,8
+207,42100311,293,2,1,2,10:00 PM,1:14,MISS Wiggins 28' 3PT Jump Shot,,,,
+208,42100311,294,4,0,2,10:00 PM,1:12,,,Powell REBOUND (Off:2 Def:1),,
+209,42100311,295,2,101,2,10:00 PM,0:56,,,MISS Doncic 7' Driving Floating Jump Shot,,
+210,42100311,296,4,0,2,10:00 PM,0:53,Thompson REBOUND (Off:0 Def:4),,,,
+211,42100311,297,1,2,2,10:00 PM,0:50,Curry 3PT Running Jump Shot (12 PTS) (Thompson 3 AST),,,43 - 54,11
+212,42100311,299,6,1,2,10:00 PM,0:36,Poole P.FOUL (P2.PN) (J.Capers),,,,
+213,42100311,301,3,11,2,10:01 PM,0:36,,,MISS Brunson Free Throw 1 of 2,,
+214,42100311,302,4,1,2,10:01 PM,0:36,,,Mavericks Rebound,,
+215,42100311,303,3,12,2,10:01 PM,0:36,,,Brunson Free Throw 2 of 2 (8 PTS),44 - 54,10
+216,42100311,304,5,4,2,10:02 PM,0:29,Wiggins Traveling Turnover (P2.T6),,,,
+217,42100311,305,6,2,2,10:02 PM,0:07,Curry S.FOUL (P1.PN) (C.Kirkland),,,,
+218,42100311,307,3,11,2,10:03 PM,0:07,,,MISS Doncic Free Throw 1 of 2,,
+219,42100311,309,8,0,2,10:03 PM,0:07,,,SUB: Ntilikina FOR Bullock,,
+220,42100311,311,4,1,2,10:03 PM,0:07,,,Mavericks Rebound,,
+221,42100311,312,3,12,2,10:03 PM,0:07,,,Doncic Free Throw 2 of 2 (18 PTS),45 - 54,9
+222,42100311,313,6,28,2,10:03 PM,0:04,,,Brunson Personal Take Foul (P1.T3) (M.Lindsay),,
+223,42100311,315,8,0,2,10:04 PM,0:04,SUB: Porter Jr. FOR Looney,,,,
+224,42100311,317,2,79,2,10:04 PM,0:01,MISS Poole 34' 3PT Pullup Jump Shot,,,,
+225,42100311,318,4,0,2,10:04 PM,0:00,WARRIORS Rebound,,,,
+226,42100311,319,13,0,2,10:04 PM,0:00,,End of 2nd Period (10:04 PM EST),,45 - 54,9
+227,42100311,326,12,0,3,10:21 PM,12:00,,Start of 3rd Period (10:21 PM EST),,45 - 54,9
+228,42100311,327,2,98,3,10:21 PM,11:45,MISS Green 3' Cutting Layup Shot,,,,
+229,42100311,329,4,0,3,10:21 PM,11:43,,,Doncic REBOUND (Off:0 Def:5),,
+230,42100311,330,1,52,3,10:21 PM,11:23,,,Powell 3' Alley Oop Dunk (2 PTS) (Doncic 3 AST),47 - 54,7
+231,42100311,332,1,80,3,10:22 PM,11:11,Wiggins 20' Step Back Jump Shot (17 PTS),,,47 - 56,9
+232,42100311,333,5,2,3,10:22 PM,10:47,Curry STEAL (1 STL),,Doncic Lost Ball Turnover (P2.T4),,
+233,42100311,335,1,103,3,10:22 PM,10:42,Curry 26' 3PT Running Pull-Up Jump Shot (15 PTS),,,47 - 59,12
+234,42100311,336,5,2,3,10:22 PM,10:27,Green STEAL (2 STL),,Doncic Lost Ball Turnover (P3.T5),,
+235,42100311,338,1,41,3,10:22 PM,10:22,Thompson 4' Running Layup (2 PTS) (Green 2 AST),,,47 - 61,14
+236,42100311,340,2,5,3,10:23 PM,10:06,Wiggins BLOCK (1 BLK),,MISS Powell 6' Layup,,
+237,42100311,342,4,0,3,10:23 PM,10:03,,,Brunson REBOUND (Off:1 Def:2),,
+238,42100311,343,2,1,3,10:23 PM,9:57,,,MISS Bullock 28' 3PT Jump Shot,,
+239,42100311,344,4,0,3,10:23 PM,9:55,Thompson REBOUND (Off:0 Def:5),,,,
+240,42100311,345,2,1,3,10:23 PM,9:53,MISS Wiggins 28' 3PT Jump Shot,,,,
+241,42100311,346,4,0,3,10:23 PM,9:50,,,Doncic REBOUND (Off:0 Def:6),,
+242,42100311,347,2,80,3,10:23 PM,9:43,,,MISS Doncic 28' 3PT Step Back Jump Shot,,
+243,42100311,348,4,0,3,10:23 PM,9:41,Curry REBOUND (Off:1 Def:8),,,,
+244,42100311,349,1,1,3,10:23 PM,9:30,Curry 28' 3PT Jump Shot (18 PTS) (Green 3 AST),,,47 - 64,17
+245,42100311,351,9,1,3,10:23 PM,9:29,,,Mavericks Timeout: Regular (Reg.3 Short 0),,
+246,42100311,352,2,101,3,10:27 PM,9:05,,,MISS Brunson 9' Driving Floating Jump Shot,,
+247,42100311,353,4,0,3,10:27 PM,9:03,Wiggins REBOUND (Off:0 Def:3),,,,
+248,42100311,354,5,1,3,10:27 PM,8:55,Curry Bad Pass Turnover (P1.T7),,Brunson STEAL (1 STL),,
+249,42100311,356,1,50,3,10:28 PM,8:51,,,Doncic 5' Running Dunk (20 PTS) (Brunson 3 AST),49 - 64,15
+250,42100311,359,5,1,3,10:28 PM,8:35,Green Bad Pass Turnover (P1.T8),,Powell STEAL (1 STL),,
+251,42100311,361,6,1,3,10:28 PM,8:29,Wiggins P.FOUL (P2.T1) (M.Lindsay),,,,
+252,42100311,363,2,1,3,10:29 PM,8:20,,,MISS Brunson 24' 3PT Jump Shot,,
+253,42100311,364,4,0,3,10:29 PM,8:17,WARRIORS Rebound,,,,
+254,42100311,366,1,99,3,10:29 PM,7:57,Thompson 4' Cutting Finger Roll Layup Shot (4 PTS) (Looney 1 AST),,,49 - 66,17
+255,42100311,368,6,2,3,10:29 PM,7:39,Green S.FOUL (P4.T2) (C.Kirkland),,,,
+256,42100311,370,3,11,3,10:30 PM,7:39,,,MISS Powell Free Throw 1 of 2,,
+257,42100311,371,4,1,3,10:30 PM,7:39,,,Mavericks Rebound,,
+258,42100311,372,3,12,3,10:31 PM,7:39,,,Powell Free Throw 2 of 2 (3 PTS),50 - 66,16
+259,42100311,373,2,102,3,10:31 PM,7:24,MISS Curry 14' Driving Floating Bank Jump Shot,,,,
+260,42100311,374,4,0,3,10:31 PM,7:23,WARRIORS Rebound,,,,
+261,42100311,376,8,0,3,10:31 PM,7:23,,,SUB: Kleber FOR Powell,,
+262,42100311,378,2,5,3,10:31 PM,7:20,MISS Wiggins 4' Layup,,,,
+263,42100311,379,4,0,3,10:31 PM,7:18,Wiggins REBOUND (Off:1 Def:3),,,,
+264,42100311,380,1,97,3,10:31 PM,7:16,Wiggins Tip Layup Shot (19 PTS),,,50 - 68,18
+265,42100311,381,2,1,3,10:31 PM,7:05,Looney BLOCK (2 BLK),,MISS Bullock 11' Jump Shot,,
+266,42100311,383,4,0,3,10:31 PM,7:02,Green REBOUND (Off:1 Def:6),,,,
+267,42100311,384,6,4,3,10:32 PM,6:56,Curry OFF.Foul (P2) (C.Kirkland),,,,
+268,42100311,386,5,37,3,10:32 PM,6:56,Curry Offensive Foul Turnover (P2.T9),,,,
+269,42100311,387,5,45,3,10:32 PM,6:56,,,Doncic Out of Bounds - Bad Pass Turnover Turnover (P4.T6),,
+270,42100311,388,2,1,3,10:32 PM,6:52,MISS Wiggins 25' 3PT Jump Shot,,,,
+271,42100311,389,4,0,3,10:32 PM,6:50,,,Brunson REBOUND (Off:1 Def:3),,
+272,42100311,390,1,79,3,10:33 PM,6:41,,,Brunson 14' Pullup Jump Shot (10 PTS),52 - 68,16
+273,42100311,391,1,1,3,10:33 PM,6:30,Thompson 24' 3PT Jump Shot (7 PTS) (Wiggins 2 AST),,,52 - 71,19
+274,42100311,393,1,101,3,10:33 PM,6:13,,,Brunson 8' Driving Floating Jump Shot (12 PTS),54 - 71,17
+275,42100311,394,9,1,3,10:33 PM,6:12,WARRIORS Timeout: Regular (Full 3 Short 0),,,,
+276,42100311,395,8,0,3,10:36 PM,6:12,SUB: Porter Jr. FOR Green,,,,
+277,42100311,397,1,79,3,10:37 PM,5:52,Thompson 14' Pullup Jump Shot (9 PTS) (Looney 2 AST),,,54 - 73,19
+278,42100311,399,1,1,3,10:37 PM,5:28,,,Kleber 27' 3PT Jump Shot (3 PTS) (Doncic 4 AST),57 - 73,16
+279,42100311,401,1,99,3,10:38 PM,5:09,Thompson 4' Cutting Finger Roll Layup Shot (11 PTS) (Looney 3 AST),,,57 - 75,18
+280,42100311,403,1,79,3,10:38 PM,4:55,,,Brunson 19' Pullup Jump Shot (14 PTS),59 - 75,16
+281,42100311,404,1,7,3,10:38 PM,4:28,Looney 2' Dunk (10 PTS) (Thompson 4 AST),,,59 - 77,18
+282,42100311,406,2,1,3,10:39 PM,4:13,,,MISS Bullock 24' 3PT Jump Shot,,
+283,42100311,407,4,0,3,10:39 PM,4:10,Curry REBOUND (Off:1 Def:9),,,,
+284,42100311,408,5,1,3,10:39 PM,3:54,Curry Bad Pass Turnover (P3.T10),,Bullock STEAL (1 STL),,
+285,42100311,410,6,4,3,10:39 PM,3:52,,,Finney-Smith OFF.Foul (P1) (J.Capers),,
+286,42100311,412,5,37,3,10:39 PM,3:52,,,Finney-Smith Offensive Foul Turnover (P1.T7),,
+287,42100311,413,8,0,3,10:39 PM,3:52,SUB: Poole FOR Thompson,,,,
+288,42100311,414,8,0,3,10:39 PM,3:52,,,SUB: Dinwiddie FOR Bullock,,
+289,42100311,417,2,79,3,10:40 PM,3:40,MISS Curry 20' Pullup Jump Shot,,,,
+290,42100311,418,4,0,3,10:40 PM,3:38,,,Mavericks Rebound,,
+291,42100311,420,2,101,3,10:40 PM,3:25,,,MISS Doncic 7' Driving Floating Jump Shot,,
+292,42100311,421,4,0,3,10:40 PM,3:23,Looney REBOUND (Off:2 Def:3),,,,
+293,42100311,422,2,1,3,10:40 PM,3:17,MISS Poole 30' 3PT Jump Shot,,,,
+294,42100311,423,4,0,3,10:40 PM,3:16,,,Mavericks Rebound,,
+295,42100311,424,6,3,3,10:40 PM,3:16,Porter Jr. L.B.FOUL (P2.T3) (M.Lindsay),,,,
+296,42100311,426,5,1,3,10:41 PM,3:02,Wiggins STEAL (1 STL),,Doncic Bad Pass Turnover (P5.T8),,
+297,42100311,428,1,41,3,10:41 PM,2:59,Porter Jr. 4' Running Layup (6 PTS) (Poole 3 AST),,,59 - 79,20
+298,42100311,430,1,101,3,10:41 PM,2:48,,,Dinwiddie 7' Driving Floating Jump Shot (9 PTS),61 - 79,18
+299,42100311,431,6,2,3,10:41 PM,2:48,Poole S.FOUL (P3.T4) (J.Capers),,,,
+300,42100311,433,8,0,3,10:41 PM,2:48,,,SUB: Bertans FOR Doncic,,
+301,42100311,435,8,0,3,10:41 PM,2:48,SUB: Thompson FOR Wiggins,,,,
+302,42100311,437,3,10,3,10:42 PM,2:48,,,Dinwiddie Free Throw 1 of 1 (10 PTS),62 - 79,17
+303,42100311,438,1,98,3,10:42 PM,2:35,Porter Jr. 4' Cutting Layup Shot (8 PTS) (Looney 4 AST),,,62 - 81,19
+304,42100311,440,2,79,3,10:42 PM,2:24,,,MISS Dinwiddie 26' 3PT Pullup Jump Shot,,
+305,42100311,441,4,0,3,10:42 PM,2:21,Curry REBOUND (Off:1 Def:10),,,,
+306,42100311,442,2,86,3,10:42 PM,2:09,MISS Thompson 11' Turnaround Fadeaway Shot,,,,
+307,42100311,443,4,0,3,10:42 PM,2:06,Curry REBOUND (Off:2 Def:10),,,,
+308,42100311,444,1,101,3,10:42 PM,2:02,Curry 20' Driving Floating Jump Shot (20 PTS),,,62 - 83,21
+309,42100311,445,6,2,3,10:43 PM,2:02,,,Finney-Smith S.FOUL (P2.T1) (C.Kirkland),,
+310,42100311,447,3,10,3,10:43 PM,2:02,Curry Free Throw 1 of 1 (21 PTS),,,62 - 84,22
+311,42100311,448,2,79,3,10:43 PM,1:38,,,MISS Brunson 11' Pullup Jump Shot,,
+312,42100311,449,4,0,3,10:43 PM,1:36,,,Finney-Smith REBOUND (Off:3 Def:1),,
+313,42100311,450,2,97,3,10:44 PM,1:33,,,MISS Finney-Smith Tip Layup Shot,,
+314,42100311,451,4,0,3,10:44 PM,1:32,,,Finney-Smith REBOUND (Off:4 Def:1),,
+315,42100311,452,6,4,3,10:44 PM,1:31,,,Finney-Smith OFF.Foul (P3) (C.Kirkland),,
+316,42100311,454,5,37,3,10:44 PM,1:31,,,Finney-Smith Offensive Foul Turnover (P2.T9),,
+317,42100311,455,2,75,3,10:44 PM,1:13,MISS Thompson 6' Driving Finger Roll Layup,,,,
+318,42100311,456,4,0,3,10:44 PM,1:11,,,Kleber REBOUND (Off:1 Def:2),,
+319,42100311,457,1,1,3,10:45 PM,1:02,,,Dinwiddie 26' 3PT Jump Shot (13 PTS) (Brunson 4 AST),65 - 84,19
+320,42100311,459,1,102,3,10:45 PM,0:43,Poole 9' Driving Floating Bank Jump Shot (11 PTS),,,65 - 86,21
+321,42100311,460,6,2,3,10:45 PM,0:37,Curry S.FOUL (P3.PN) (M.Lindsay),,,,
+322,42100311,462,3,11,3,10:46 PM,0:37,,,MISS Dinwiddie Free Throw 1 of 2,,
+323,42100311,463,4,1,3,10:46 PM,0:37,,,Mavericks Rebound,,
+324,42100311,464,3,12,3,10:46 PM,0:37,,,Dinwiddie Free Throw 2 of 2 (14 PTS),66 - 86,20
+325,42100311,465,2,79,3,10:46 PM,0:32,MISS Curry 33' 3PT Pullup Jump Shot,,,,
+326,42100311,466,4,0,3,10:46 PM,0:30,,,Bertans REBOUND (Off:0 Def:1),,
+327,42100311,467,1,80,3,10:46 PM,0:09,,,Dinwiddie 29' 3PT Step Back Jump Shot (17 PTS),69 - 86,17
+328,42100311,468,1,1,3,10:46 PM,0:01,Poole 20' Jump Shot (13 PTS),,,69 - 88,19
+329,42100311,469,13,0,3,10:47 PM,0:00,,End of 3rd Period (10:47 PM EST),,69 - 88,19
+330,42100311,470,18,0,3,10:47 PM,0:00,,Instant Replay3rd Period (10:47 PM EST),,69 - 88,19
+331,42100311,481,12,0,4,10:50 PM,12:00,,Start of 4th Period (10:50 PM EST),,69 - 88,19
+332,42100311,482,2,80,4,10:50 PM,11:51,,,MISS Dinwiddie 26' 3PT Step Back Jump Shot,,
+333,42100311,483,4,0,4,10:51 PM,11:49,Green REBOUND (Off:1 Def:7),,,,
+334,42100311,484,2,101,4,10:51 PM,11:35,MISS Wiggins 7' Driving Floating Jump Shot,,,,
+335,42100311,485,4,0,4,10:51 PM,11:32,Poole REBOUND (Off:1 Def:0),,,,
+336,42100311,486,1,75,4,10:51 PM,11:29,Poole 5' Driving Finger Roll Layup (15 PTS),,,69 - 90,21
+337,42100311,487,2,79,4,10:51 PM,11:04,,,MISS Doncic 31' 3PT Pullup Jump Shot,,
+338,42100311,488,4,0,4,10:51 PM,11:02,Porter Jr. REBOUND (Off:0 Def:3),,,,
+339,42100311,489,6,28,4,10:51 PM,10:56,,,Doncic Personal Take Foul (P1.T1) (C.Kirkland),,
+340,42100311,491,1,79,4,10:52 PM,10:47,Thompson 17' Pullup Jump Shot (13 PTS),,,69 - 92,23
+341,42100311,492,2,80,4,10:52 PM,10:26,,,MISS Doncic 31' 3PT Step Back Jump Shot,,
+342,42100311,493,4,0,4,10:52 PM,10:23,Poole REBOUND (Off:1 Def:1),,,,
+343,42100311,494,6,1,4,10:52 PM,10:19,,,Ntilikina P.FOUL (P1.T2) (M.Lindsay),,
+344,42100311,496,2,101,4,10:53 PM,10:13,MISS Wiggins 8' Driving Floating Jump Shot,,,,
+345,42100311,497,4,0,4,10:53 PM,10:10,,,Doncic REBOUND (Off:0 Def:7),,
+346,42100311,498,6,28,4,10:53 PM,10:07,Poole Personal Take Foul (P4.T1) (C.Kirkland),,,,
+347,42100311,500,2,1,4,10:53 PM,9:56,,,MISS Kleber 3PT Jump Shot,,
+348,42100311,501,4,0,4,10:54 PM,9:54,Green REBOUND (Off:1 Def:8),,,,
+349,42100311,502,1,41,4,10:54 PM,9:48,Green 3' Running Layup (8 PTS),,,69 - 94,25
+350,42100311,503,2,1,4,10:54 PM,9:26,,,MISS Ntilikina 26' 3PT Jump Shot,,
+351,42100311,504,4,0,4,10:54 PM,9:24,Wiggins REBOUND (Off:1 Def:4),,,,
+352,42100311,505,1,71,4,10:54 PM,9:07,Poole 6' Finger Roll Layup (17 PTS),,,69 - 96,27
+353,42100311,506,9,1,4,10:54 PM,9:07,,,Mavericks Timeout: Regular (Reg.4 Short 0),,
+354,42100311,507,2,6,4,10:58 PM,8:52,,,MISS Doncic 5' Driving Layup,,
+355,42100311,508,4,0,4,10:58 PM,8:50,Porter Jr. REBOUND (Off:0 Def:4),,,,
+356,42100311,509,1,63,4,10:59 PM,8:28,Thompson 16' Fadeaway Jumper (15 PTS),,,69 - 98,29
+357,42100311,510,6,1,4,10:59 PM,8:08,Poole P.FOUL (P5.T2) (M.Lindsay),,,,
+358,42100311,512,8,0,4,10:59 PM,8:08,,,SUB: Finney-Smith FOR Kleber,,
+359,42100311,513,8,0,4,10:59 PM,8:08,,,SUB: Green FOR Ntilikina,,
+360,42100311,516,5,1,4,10:59 PM,8:05,Porter Jr. STEAL (1 STL),,Doncic Bad Pass Turnover (P6.T10),,
+361,42100311,518,6,1,4,11:00 PM,8:00,,,Bullock P.FOUL (P3.T3) (C.Kirkland),,
+362,42100311,520,5,45,4,11:00 PM,7:53,Thompson Out of Bounds - Bad Pass Turnover Turnover (P3.T11),,,,
+363,42100311,521,1,1,4,11:00 PM,7:41,,,Bullock 26' 3PT Jump Shot (12 PTS) (Dinwiddie 1 AST),72 - 98,26
+364,42100311,523,2,1,4,11:01 PM,7:21,MISS Wiggins 26' 3PT Jump Shot,,,,
+365,42100311,524,4,0,4,11:01 PM,7:18,,,Dinwiddie REBOUND (Off:0 Def:1),,
+366,42100311,525,6,1,4,11:01 PM,7:15,Wiggins P.FOUL (P3.T3) (M.Lindsay),,,,
+367,42100311,532,5,40,4,11:01 PM,7:10,,,Doncic Out of Bounds Lost Ball Turnover (P7.T11),,
+368,42100311,528,6,11,4,11:01 PM,7:10,Poole T.FOUL (P5.T3) (C.Kirkland),,,,
+369,42100311,529,9,1,4,11:02 PM,7:10,WARRIORS Timeout: Regular (Full 4 Short 0),,,,
+370,42100311,531,18,5,4,11:03 PM,7:10,,Instant Replay4th Period (11:03 PM EST),,72 - 98,26
+371,42100311,533,8,0,4,11:05 PM,7:10,SUB: Lee FOR Thompson,,,,
+372,42100311,535,3,16,4,11:05 PM,7:10,,,MISS Doncic Free Throw Technical,,
+373,42100311,536,4,1,4,11:05 PM,7:10,WARRIORS Rebound,,,,
+374,42100311,537,2,1,4,11:06 PM,6:57,MISS Poole 27' 3PT Jump Shot,,,,
+375,42100311,538,4,0,4,11:06 PM,6:55,,,Finney-Smith REBOUND (Off:4 Def:2),,
+376,42100311,539,1,41,4,11:06 PM,6:48,,,Green 5' Running Layup (2 PTS) (Dinwiddie 2 AST),74 - 98,24
+377,42100311,541,6,1,4,11:06 PM,6:38,,,Bullock P.FOUL (P4.T4) (C.Kirkland),,
+378,42100311,543,1,1,4,11:07 PM,6:26,Porter Jr. 18' Jump Shot (10 PTS),,,74 - 100,26
+379,42100311,544,2,1,4,11:07 PM,6:09,,,MISS Green 24' 3PT Jump Shot,,
+380,42100311,545,4,0,4,11:07 PM,6:07,Porter Jr. REBOUND (Off:0 Def:5),,,,
+381,42100311,546,2,79,4,11:07 PM,5:58,MISS Porter Jr. 10' Pullup Jump Shot,,,,
+382,42100311,547,4,0,4,11:07 PM,5:56,,,Green REBOUND (Off:0 Def:1),,
+383,42100311,548,2,102,4,11:08 PM,5:39,,,MISS Green 10' Driving Floating Bank Jump Shot,,
+384,42100311,549,4,0,4,11:08 PM,5:36,,,Finney-Smith REBOUND (Off:5 Def:2),,
+385,42100311,550,1,107,4,11:08 PM,5:36,,,Finney-Smith Tip Dunk Shot (5 PTS),76 - 100,24
+386,42100311,552,6,2,4,11:08 PM,5:27,,,Finney-Smith S.FOUL (P4.PN) (C.Kirkland),,
+387,42100311,554,3,11,4,11:08 PM,5:27,Poole Free Throw 1 of 2 (18 PTS),,,76 - 101,25
+388,42100311,555,3,12,4,11:09 PM,5:27,Poole Free Throw 2 of 2 (19 PTS),,,76 - 102,26
+389,42100311,556,2,101,4,11:09 PM,5:14,,,MISS Dinwiddie 9' Driving Floating Jump Shot,,
+390,42100311,557,4,0,4,11:09 PM,5:11,Porter Jr. REBOUND (Off:0 Def:6),,,,
+391,42100311,558,1,7,4,11:09 PM,5:04,Green 3' Dunk (10 PTS) (Wiggins 3 AST),,,76 - 104,28
+392,42100311,560,9,1,4,11:09 PM,5:03,,,Mavericks Timeout: Regular (Reg.5 Short 0),,
+393,42100311,561,8,0,4,11:10 PM,5:03,SUB: Toscano-Anderson FOR Poole,,,,
+394,42100311,562,8,0,4,11:10 PM,5:03,SUB: Moody FOR Wiggins,,,,
+395,42100311,563,8,0,4,11:10 PM,5:03,SUB: Bjelica FOR Green,,,,
+396,42100311,564,8,0,4,11:10 PM,5:03,SUB: Kuminga FOR Porter Jr.,,,,
+397,42100311,565,8,0,4,11:10 PM,5:03,,,SUB: Burke FOR Finney-Smith,,
+398,42100311,566,8,0,4,11:10 PM,5:03,,,SUB: Chriss FOR Bullock,,
+399,42100311,567,8,0,4,11:10 PM,5:03,,,SUB: Bertans FOR Dinwiddie,,
+400,42100311,568,8,0,4,11:10 PM,5:03,,,SUB: Brown FOR Doncic,,
+401,42100311,577,2,1,4,11:11 PM,4:48,,,MISS Bertans 25' 3PT Jump Shot,,
+402,42100311,578,4,0,4,11:11 PM,4:45,Kuminga REBOUND (Off:0 Def:1),,,,
+403,42100311,579,5,2,4,11:12 PM,4:29,Toscano-Anderson Lost Ball Turnover (P1.T12),,Brown STEAL (1 STL),,
+404,42100311,582,5,2,4,11:12 PM,4:07,Kuminga STEAL (1 STL),,Brown Lost Ball Turnover (P1.T12),,
+405,42100311,584,6,2,4,11:12 PM,4:05,,,Chriss S.FOUL (P1.PN) (J.Capers),,
+406,42100311,586,3,11,4,11:13 PM,4:05,Kuminga Free Throw 1 of 2 (1 PTS),,,76 - 105,29
+407,42100311,587,3,12,4,11:13 PM,4:05,Kuminga Free Throw 2 of 2 (2 PTS),,,76 - 106,30
+408,42100311,588,1,6,4,11:13 PM,3:56,,,Burke 6' Driving Layup (2 PTS),78 - 106,28
+409,42100311,589,2,47,4,11:13 PM,3:35,MISS Kuminga 14' Turnaround Jump Shot,,Brown BLOCK (1 BLK),,
+410,42100311,591,4,0,4,11:14 PM,3:33,,,Brown REBOUND (Off:0 Def:1),,
+411,42100311,628,5,2,4,11:14 PM,3:32,Toscano-Anderson STEAL (1 STL),,Brown Lost Ball Turnover (P2.T13),,
+412,42100311,592,2,47,4,11:14 PM,3:25,MISS Kuminga 10' Turnaround Jump Shot,,,,
+413,42100311,593,4,0,4,11:14 PM,3:23,,,Brown REBOUND (Off:0 Def:2),,
+414,42100311,594,1,79,4,11:14 PM,3:16,,,Burke 19' Pullup Jump Shot (4 PTS),80 - 106,26
+415,42100311,595,6,2,4,11:14 PM,3:16,Bjelica S.FOUL (P1.T4) (J.Capers),,,,
+416,42100311,597,3,10,4,11:14 PM,3:16,,,Burke Free Throw 1 of 1 (5 PTS),81 - 106,25
+417,42100311,598,5,1,4,11:15 PM,3:00,Bjelica Bad Pass Turnover (P1.T13),,Bertans STEAL (1 STL),,
+418,42100311,600,2,6,4,11:15 PM,2:47,,,MISS Brown 5' Driving Layup,,
+419,42100311,601,4,0,4,11:15 PM,2:45,Lee REBOUND (Off:0 Def:3),,,,
+420,42100311,602,5,2,4,11:15 PM,2:34,Lee Lost Ball Turnover (P1.T14),,Bertans STEAL (2 STL),,
+421,42100311,604,1,98,4,11:15 PM,2:28,,,Brown 6' Cutting Layup Shot (2 PTS) (Burke 1 AST),83 - 106,23
+422,42100311,606,6,4,4,11:15 PM,2:10,Toscano-Anderson OFF.Foul (P1) (M.Lindsay),,,,
+423,42100311,608,5,37,4,11:15 PM,2:10,Toscano-Anderson Offensive Foul Turnover (P2.T15),,,,
+424,42100311,609,2,1,4,11:16 PM,2:05,,,MISS Bertans 28' 3PT Jump Shot,,
+425,42100311,610,4,0,4,11:16 PM,2:02,Lee REBOUND (Off:0 Def:4),,,,
+426,42100311,611,2,79,4,11:16 PM,1:53,MISS Kuminga 16' Pullup Jump Shot,,,,
+427,42100311,612,4,0,4,11:16 PM,1:50,,,Chriss REBOUND (Off:0 Def:1),,
+428,42100311,613,1,75,4,11:16 PM,1:41,,,Brown 3' Driving Finger Roll Layup (4 PTS) (Burke 2 AST),85 - 106,21
+429,42100311,615,2,80,4,11:17 PM,1:21,MISS Kuminga 19' Step Back Jump Shot,,,,
+430,42100311,616,4,0,4,11:17 PM,1:18,,,Brown REBOUND (Off:0 Def:3),,
+431,42100311,617,1,75,4,11:17 PM,1:10,,,Burke 4' Driving Finger Roll Layup (7 PTS),87 - 106,19
+432,42100311,618,1,1,4,11:17 PM,0:48,Moody 26' 3PT Jump Shot (3 PTS) (Bjelica 1 AST),,,87 - 109,22
+433,42100311,620,2,1,4,11:17 PM,0:44,,,MISS Brown 27' 3PT Jump Shot,,
+434,42100311,621,4,0,4,11:17 PM,0:42,Bjelica REBOUND (Off:0 Def:1),,,,
+435,42100311,622,1,1,4,11:17 PM,0:35,Lee 24' 3PT Jump Shot (3 PTS) (Kuminga 1 AST),,,87 - 112,25
+436,42100311,624,2,1,4,11:18 PM,0:22,,,MISS Burke 3PT Jump Shot,,
+437,42100311,625,4,0,4,11:18 PM,0:19,Lee REBOUND (Off:0 Def:5),,,,
+438,42100311,626,13,0,4,11:18 PM,0:00,,End of 4th Period (11:18 PM EST),,87 - 112,25
