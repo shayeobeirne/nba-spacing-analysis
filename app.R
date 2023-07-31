@@ -260,7 +260,10 @@ server <- function(input, output, session) {
             });
           }"
     
-    shot_data <- data %>% filter(wasShot == 1)
+    shot_data <- data %>% 
+      filter(wasShot == 1) %>%
+      mutate(madeShotColor = ifelse(shotMade == 1, 'green3', 'red3'))
+    
     par(mar = c(4,6,4,4))
     shot_data[1:max(which(shot_data$POSSESSION_ID == possession())),] %>%
       mutate(madeShot = ifelse(shotMade == 1, 'MadeShot', 'MissedShot')) %>%
@@ -270,12 +273,12 @@ server <- function(input, output, session) {
               color=~madeShot,
               marker = list(size = 10), 
               opacity = 0.6,
-              colors=c('green3', 'red3'),
+              colors=shot_data$madeShotColor,
               type = 'scatter', 
               mode = 'markers',
-              text=~Player,
-              customdata=~Video,
-              hovertemplate = paste('%{text}'),
+              text=~Video,
+              customdata=~Player,
+              hovertemplate = paste('%{customdata}'),
               hoverlabel = list(font = list(family = 'Andale Mono'))) %>%
       layout(
       xaxis = list(
