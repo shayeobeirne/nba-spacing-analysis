@@ -12,13 +12,13 @@ Files that directly contain results of the project:
 
 * NBA_Spacing_Insight.pdf
 
+* app_data
+
 Files that contain helper functions and objects used within the project files (These files must not be deleted in order for app.R to properly run):
 
 * animation.gif
 
 * animation.png
-
-* data
 
 * renv
 
