@@ -82,7 +82,7 @@ To use the app from the hackathon_app file:
 5. In the pop-up window, click 'View in Browser' to open the Shiny App in the user's default browser (the App was designed for browser usage and operates best in this setting)
 6. Wait for data to populate page (can take between 10 and 30 seconds)
 7. Select Team and Possession from user inputs at the top of the page
-8. View reaulting analysis within the app
+8. View resulting analysis within the app
 
 The corresponding Insight (NBA_Spacing_Insight.pdf) can be viewed in any PDF Viewer or Editor.
 
