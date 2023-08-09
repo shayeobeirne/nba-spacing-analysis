@@ -88,5 +88,5 @@ The corresponding Insight (NBA_Spacing_Insight.pdf) can be viewed in any PDF Vie
 
 ## Link to Live Deployment
 
-A live version of the app can be found [here](https://sobeirne.shinyapps.io/nba-spacing-analysis/), hosted by ShinyApps.io
+A live version of the app can be found [here](https://sobeirne.shinyapps.io/nba_spacing_analysis/), hosted by ShinyApps.io
 
