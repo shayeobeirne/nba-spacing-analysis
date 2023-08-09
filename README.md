@@ -86,3 +86,7 @@ To use the app from the hackathon_app file:
 
 The corresponding Insight (NBA_Spacing_Insight.pdf) can be viewed in any PDF Viewer or Editor.
 
+## Link to Live Deployment
+
+A live version of the app can be found [here](https://sobeirne.shinyapps.io/nba-spacing-analysis/), hosted by ShinyApps.io
+
